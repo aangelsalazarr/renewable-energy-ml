@@ -85,3 +85,8 @@ def wind_energy_gen_data(state, start_date):
 
     return df  # return our now transformed df
 
+
+def combine_dfs(dfs):
+    combined_df = pd.concat(dfs, axis=0, ignore_index=True)
+    return combined_df
+

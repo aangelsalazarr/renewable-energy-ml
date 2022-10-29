@@ -17,12 +17,20 @@ api_key = os.environ.get('eiaAPI')
 # setting up some date variables to use
 today = date.today()
 currentDate = today.strftime('%m_%d_%y')
-startDate = today - relativedelta(years=7)
+startDate = today - relativedelta(years=3)
 eiaStartDate = startDate.strftime('%Y-%m')
 
 # storing our get request as a df variable
-df = sun_energy_gen_data(state='CA', start_date=eiaStartDate)
-print(df)
+ca_sun_df = sun_energy_gen_data(state='CA', start_date=eiaStartDate)
+tx_sun_df = sun_energy_gen_data(state='TX', start_date=eiaStartDate)
 
-# convert our new df data into csv
-# df.to_csv('./data_files/ca_solar_wind_gen_data.csv', index=False)
+# combine dfs into a list
+dfs = [ca_sun_df, tx_sun_df]
+
+# iterate and concatenate dfs into one
+combined_df = combine_dfs(dfs=dfs)
+
+# print out as csv file
+combined_df.to_csv('./data_files/top_five_sun_gen_data.csv', index=False)
+
+
