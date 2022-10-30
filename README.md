@@ -13,3 +13,5 @@
 
 ## Sources
 - [EIA Open Data](https://www.eia.gov/opendata)
+- [NSRDB](https://nsrdb.nrel.gov/)
+- [NCDC](https://www.ncdc.noaa.gov/cdo-web/)
