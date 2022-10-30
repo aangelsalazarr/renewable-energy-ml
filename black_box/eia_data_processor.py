@@ -110,6 +110,31 @@ def hourly_energy_gen_data(start_time, fueltype, apikey):
     return df  # return our now transformed df
 
 
+def daily_energy_gen_data(start, fueltype, apikey):
+    # base url
+    baseUrl = 'https://api.eia.gov/v2/electricity/rto/daily-fuel-type-data/data/'
+    baseUrl = baseUrl + '?api_key=' + str(apikey)
+
+    # we will want to add some inputs to our complete url
+    urlData = '&data[0]=value'
+    urlFreq = '&frequency=daily'
+    urlStart = '&start=' + str(start)  # format: 2022-10-23T00
+    urlFacet = '&facets[fueltype][0]=' + str(fueltype)
+
+    # concatenate to get main url
+    url = baseUrl + urlData + urlFacet + urlFreq + urlStart
+
+    r = requests.get(url=url)  # store url request as variable r
+    data = r.json()  # convert our request into json format
+    entries = data['response']['data']  # only grabbing data aspect of return
+    df = pd.DataFrame(data=entries)  # converting our data into a pandas df
+    df.reset_index(drop=True)  # resetting df index
+    # df['period'] = pd.to_datetime(df['period'])  # convert period type
+
+    return df  # return our now transformed df
+
+
+
 def combine_dfs(dfs):
     combined_df = pd.concat(dfs, axis=0, ignore_index=True)
     return combined_df

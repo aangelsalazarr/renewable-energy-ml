@@ -1,0 +1,1869 @@
+period,respondent,respondent-name,fueltype,type-name,timezone,timezone-description,value,value-units
+2022-10-27,CPLW,Duke Energy Progress West,SUN,Solar,Eastern,Eastern,4,megawatthours
+2022-10-26,FMPP,Florida Municipal Power Pool,SUN,Solar,Arizona,Arizona,1202,megawatthours
+2022-10-27,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,49455,megawatthours
+2022-10-26,FMPP,Florida Municipal Power Pool,SUN,Solar,Mountain,Mountain,1202,megawatthours
+2022-10-27,NWMT,NorthWestern Corporation,SUN,Solar,Central,Central,53,megawatthours
+2022-10-26,MIDA,Mid-Atlantic,SUN,Solar,Pacific,Pacific,6241,megawatthours
+2022-10-26,NY,New York,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-27,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Pacific,Pacific,693,megawatthours
+2022-10-27,TEC,Tampa Electric Company,SUN,Solar,Eastern,Eastern,3116,megawatthours
+2022-10-26,DUK,Duke Energy Carolinas,SUN,Solar,Arizona,Arizona,2547,megawatthours
+2022-10-27,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Mountain,Mountain,1640,megawatthours
+2022-10-26,NE,New England,SUN,Solar,Arizona,Arizona,695,megawatthours
+2022-10-27,PACE,PacifiCorp East,SUN,Solar,Eastern,Eastern,10540,megawatthours
+2022-10-27,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Arizona,Arizona,693,megawatthours
+2022-10-23,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Central,Central,7930,megawatthours
+2022-10-23,TEN,Tennessee,SUN,Solar,Central,Central,3943,megawatthours
+2022-10-23,EPE,El Paso Electric Company,SUN,Solar,Central,Central,484,megawatthours
+2022-10-23,BANC,Balancing Authority of Northern California,SUN,Solar,Eastern,Eastern,1145,megawatthours
+2022-10-23,PACE,PacifiCorp East,SUN,Solar,Eastern,Eastern,5095,megawatthours
+2022-10-23,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Eastern,Eastern,9910,megawatthours
+2022-10-23,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Eastern,Eastern,50,megawatthours
+2022-10-23,AZPS,Arizona Public Service Company,SUN,Solar,Mountain,Mountain,4687,megawatthours
+2022-10-23,DUK,Duke Energy Carolinas,SUN,Solar,Eastern,Eastern,6563,megawatthours
+2022-10-23,PNM,Public Service Company of New Mexico,SUN,Solar,Central,Central,2209,megawatthours
+2022-10-23,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Arizona,Arizona,962,megawatthours
+2022-10-23,NYIS,New York Independent System Operator,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-23,IID,Imperial Irrigation District,SUN,Solar,Arizona,Arizona,3789,megawatthours
+2022-10-23,PACW,PacifiCorp West,SUN,Solar,Central,Central,2194,megawatthours
+2022-10-23,MIDA,Mid-Atlantic,SUN,Solar,Eastern,Eastern,9479,megawatthours
+2022-10-26,CENT,Central,SUN,Solar,Arizona,Arizona,1213,megawatthours
+2022-10-27,BANC,Balancing Authority of Northern California,SUN,Solar,Pacific,Pacific,1278,megawatthours
+2022-10-26,NW,Northwest,SUN,Solar,Arizona,Arizona,32412,megawatthours
+2022-10-27,IPCO,Idaho Power Company,SUN,Solar,Arizona,Arizona,1488,megawatthours
+2022-10-26,TAL,City of Tallahassee,SUN,Solar,Arizona,Arizona,416,megawatthours
+2022-10-27,CISO,California Independent System Operator,SUN,Solar,Arizona,Arizona,93936,megawatthours
+2022-10-27,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Eastern,Eastern,3229,megawatthours
+2022-10-26,SC,South Carolina Public Service Authority,SUN,Solar,Mountain,Mountain,212,megawatthours
+2022-10-26,SE,Southeast,SUN,Solar,Arizona,Arizona,9188,megawatthours
+2022-10-27,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Mountain,Mountain,7835,megawatthours
+2022-10-27,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Central,Central,3229,megawatthours
+2022-10-26,US48,United States Lower 48,SUN,Solar,Arizona,Arizona,303038,megawatthours
+2022-10-27,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Pacific,Pacific,3229,megawatthours
+2022-10-26,FPL,Florida Power & Light Co.,SUN,Solar,Central,Central,22649,megawatthours
+2022-10-26,PJM,"PJM Interconnection, LLC",SUN,Solar,Pacific,Pacific,6241,megawatthours
+2022-10-27,CISO,California Independent System Operator,SUN,Solar,Eastern,Eastern,93936,megawatthours
+2022-10-26,NY,New York,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-27,NWMT,NorthWestern Corporation,SUN,Solar,Eastern,Eastern,53,megawatthours
+2022-10-23,PACW,PacifiCorp West,SUN,Solar,Eastern,Eastern,2194,megawatthours
+2022-10-23,CAL,California,SUN,Solar,Pacific,Pacific,96398,megawatthours
+2022-10-23,NWMT,NorthWestern Corporation,SUN,Solar,Eastern,Eastern,6,megawatthours
+2022-10-23,TEPC,Tucson Electric Power,SUN,Solar,Pacific,Pacific,2097,megawatthours
+2022-10-23,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Central,Central,1566,megawatthours
+2022-10-23,IID,Imperial Irrigation District,SUN,Solar,Central,Central,3789,megawatthours
+2022-10-23,PACE,PacifiCorp East,SUN,Solar,Mountain,Mountain,5095,megawatthours
+2022-10-23,IPCO,Idaho Power Company,SUN,Solar,Pacific,Pacific,1318,megawatthours
+2022-10-23,BANC,Balancing Authority of Northern California,SUN,Solar,Pacific,Pacific,1145,megawatthours
+2022-10-23,FMPP,Florida Municipal Power Pool,SUN,Solar,Eastern,Eastern,1329,megawatthours
+2022-10-26,US48,United States Lower 48,SUN,Solar,Central,Central,303051,megawatthours
+2022-10-26,FLA,Florida,SUN,Solar,Arizona,Arizona,28577,megawatthours
+2022-10-26,ISNE,ISO New England,SUN,Solar,Pacific,Pacific,695,megawatthours
+2022-10-27,FLA,Florida,SUN,Solar,Eastern,Eastern,30852,megawatthours
+2022-10-27,SW,Southwest,SUN,Solar,Pacific,Pacific,15378,megawatthours
+2022-10-26,CPLW,Duke Energy Progress West,SUN,Solar,Mountain,Mountain,105,megawatthours
+2022-10-27,EPE,El Paso Electric Company,SUN,Solar,Pacific,Pacific,764,megawatthours
+2022-10-26,DUK,Duke Energy Carolinas,SUN,Solar,Central,Central,2548,megawatthours
+2022-10-27,DUK,Duke Energy Carolinas,SUN,Solar,Eastern,Eastern,5518,megawatthours
+2022-10-26,TVA,Tennessee Valley Authority,SUN,Solar,Arizona,Arizona,2303,megawatthours
+2022-10-27,FMPP,Florida Municipal Power Pool,SUN,Solar,Eastern,Eastern,901,megawatthours
+2022-10-27,PSCO,Public Service Company of Colorado,SUN,Solar,Mountain,Mountain,1057,megawatthours
+2022-10-26,NWMT,NorthWestern Corporation,SUN,Solar,Pacific,Pacific,62,megawatthours
+2022-10-26,SEC,Seminole Electric Cooperative,SUN,Solar,Mountain,Mountain,9,megawatthours
+2022-10-27,AZPS,Arizona Public Service Company,SUN,Solar,Pacific,Pacific,4427,megawatthours
+2022-10-27,SE,Southeast,SUN,Solar,Eastern,Eastern,10149,megawatthours
+2022-10-27,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Eastern,Eastern,1641,megawatthours
+2022-10-27,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Eastern,Eastern,76,megawatthours
+2022-10-23,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Eastern,Eastern,71,megawatthours
+2022-10-23,IPCO,Idaho Power Company,SUN,Solar,Eastern,Eastern,1318,megawatthours
+2022-10-23,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Central,Central,50,megawatthours
+2022-10-23,TEPC,Tucson Electric Power,SUN,Solar,Central,Central,2097,megawatthours
+2022-10-23,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Eastern,Eastern,1547,megawatthours
+2022-10-23,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Pacific,Pacific,962,megawatthours
+2022-10-23,NEVP,Nevada Power Company,SUN,Solar,Pacific,Pacific,13414,megawatthours
+2022-10-23,US48,United States Lower 48,SUN,Solar,Eastern,Eastern,286859,megawatthours
+2022-10-26,PJM,"PJM Interconnection, LLC",SUN,Solar,Mountain,Mountain,6242,megawatthours
+2022-10-27,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Central,Central,998,megawatthours
+2022-10-26,CAR,Carolinas,SUN,Solar,Central,Central,14075,megawatthours
+2022-10-27,SW,Southwest,SUN,Solar,Arizona,Arizona,15378,megawatthours
+2022-10-26,NYIS,New York Independent System Operator,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-27,SEC,Seminole Electric Cooperative,SUN,Solar,Eastern,Eastern,9,megawatthours
+2022-10-26,PACE,PacifiCorp East,SUN,Solar,Arizona,Arizona,7949,megawatthours
+2022-10-26,CPLE,Duke Energy Progress East,SUN,Solar,Arizona,Arizona,7018,megawatthours
+2022-10-27,CPLE,Duke Energy Progress East,SUN,Solar,Eastern,Eastern,13407,megawatthours
+2022-10-27,AVA,Avista Corporation,SUN,Solar,Pacific,Pacific,82,megawatthours
+2022-10-26,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,78424,megawatthours
+2022-10-27,CENT,Central,SUN,Solar,Central,Central,710,megawatthours
+2022-10-26,NW,Northwest,SUN,Solar,Pacific,Pacific,32412,megawatthours
+2022-10-27,EPE,El Paso Electric Company,SUN,Solar,Eastern,Eastern,764,megawatthours
+2022-10-27,NEVP,Nevada Power Company,SUN,Solar,Mountain,Mountain,16361,megawatthours
+2022-10-27,IPCO,Idaho Power Company,SUN,Solar,Mountain,Mountain,1488,megawatthours
+2022-10-27,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Mountain,Mountain,693,megawatthours
+2022-10-27,EPE,El Paso Electric Company,SUN,Solar,Arizona,Arizona,764,megawatthours
+2022-10-26,SEC,Seminole Electric Cooperative,SUN,Solar,Pacific,Pacific,9,megawatthours
+2022-10-26,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,14249,megawatthours
+2022-10-27,NW,Northwest,SUN,Solar,Eastern,Eastern,34301,megawatthours
+2022-10-27,TEN,Tennessee,SUN,Solar,Eastern,Eastern,4442,megawatthours
+2022-10-26,TEC,Tampa Electric Company,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-27,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Pacific,Pacific,35,megawatthours
+2022-10-26,JEA,JEA,SUN,Solar,Arizona,Arizona,165,megawatthours
+2022-10-26,TEN,Tennessee,SUN,Solar,Pacific,Pacific,2303,megawatthours
+2022-10-27,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Eastern,Eastern,35,megawatthours
+2022-10-26,PSCO,Public Service Company of Colorado,SUN,Solar,Arizona,Arizona,3954,megawatthours
+2022-10-27,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Arizona,Arizona,3229,megawatthours
+2022-10-27,PNM,Public Service Company of New Mexico,SUN,Solar,Central,Central,2280,megawatthours
+2022-10-26,SWPP,Southwest Power Pool,SUN,Solar,Pacific,Pacific,1213,megawatthours
+2022-10-27,PACW,PacifiCorp West,SUN,Solar,Central,Central,2108,megawatthours
+2022-10-26,MIDA,Mid-Atlantic,SUN,Solar,Central,Central,6242,megawatthours
+2022-10-26,JEA,JEA,SUN,Solar,Mountain,Mountain,165,megawatthours
+2022-10-26,DUK,Duke Energy Carolinas,SUN,Solar,Mountain,Mountain,2547,megawatthours
+2022-10-27,CAL,California,SUN,Solar,Arizona,Arizona,106930,megawatthours
+2022-10-26,FPL,Florida Power & Light Co.,SUN,Solar,Arizona,Arizona,22649,megawatthours
+2022-10-27,PACE,PacifiCorp East,SUN,Solar,Central,Central,10540,megawatthours
+2022-10-27,NW,Northwest,SUN,Solar,Mountain,Mountain,34303,megawatthours
+2022-10-26,JEA,JEA,SUN,Solar,Pacific,Pacific,165,megawatthours
+2022-10-26,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Pacific,Pacific,4190,megawatthours
+2022-10-27,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Eastern,Eastern,10149,megawatthours
+2022-10-27,AVA,Avista Corporation,SUN,Solar,Central,Central,82,megawatthours
+2022-10-27,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,14755,megawatthours
+2022-10-27,NEVP,Nevada Power Company,SUN,Solar,Pacific,Pacific,16371,megawatthours
+2022-10-26,ISNE,ISO New England,SUN,Solar,Mountain,Mountain,695,megawatthours
+2022-10-26,PSCO,Public Service Company of Colorado,SUN,Solar,Pacific,Pacific,3954,megawatthours
+2022-10-27,NW,Northwest,SUN,Solar,Central,Central,34292,megawatthours
+2022-10-26,TEX,Texas,SUN,Solar,Mountain,Mountain,78424,megawatthours
+2022-10-27,PNM,Public Service Company of New Mexico,SUN,Solar,Mountain,Mountain,2280,megawatthours
+2022-10-26,NYIS,New York Independent System Operator,SUN,Solar,Central,Central,0,megawatthours
+2022-10-26,TAL,City of Tallahassee,SUN,Solar,Central,Central,416,megawatthours
+2022-10-27,AZPS,Arizona Public Service Company,SUN,Solar,Eastern,Eastern,4373,megawatthours
+2022-10-27,TVA,Tennessee Valley Authority,SUN,Solar,Central,Central,4444,megawatthours
+2022-10-26,CAR,Carolinas,SUN,Solar,Pacific,Pacific,14072,megawatthours
+2022-10-26,FMPP,Florida Municipal Power Pool,SUN,Solar,Central,Central,1202,megawatthours
+2022-10-27,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Eastern,Eastern,4802,megawatthours
+2022-10-27,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,49456,megawatthours
+2022-10-26,SEC,Seminole Electric Cooperative,SUN,Solar,Arizona,Arizona,9,megawatthours
+2022-10-26,TEX,Texas,SUN,Solar,Arizona,Arizona,78424,megawatthours
+2022-10-27,PSCO,Public Service Company of Colorado,SUN,Solar,Eastern,Eastern,1060,megawatthours
+2022-10-26,NYIS,New York Independent System Operator,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-26,SWPP,Southwest Power Pool,SUN,Solar,Arizona,Arizona,1213,megawatthours
+2022-10-27,AVA,Avista Corporation,SUN,Solar,Eastern,Eastern,82,megawatthours
+2022-10-26,NE,New England,SUN,Solar,Mountain,Mountain,695,megawatthours
+2022-10-26,CPLE,Duke Energy Progress East,SUN,Solar,Mountain,Mountain,7020,megawatthours
+2022-10-27,NEVP,Nevada Power Company,SUN,Solar,Arizona,Arizona,16371,megawatthours
+2022-10-27,TEPC,Tucson Electric Power,SUN,Solar,Mountain,Mountain,3039,megawatthours
+2022-10-26,TEC,Tampa Electric Company,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-27,ISNE,ISO New England,SUN,Solar,Eastern,Eastern,3093,megawatthours
+2022-10-27,IPCO,Idaho Power Company,SUN,Solar,Eastern,Eastern,1488,megawatthours
+2022-10-26,MIDA,Mid-Atlantic,SUN,Solar,Mountain,Mountain,6242,megawatthours
+2022-10-26,NE,New England,SUN,Solar,Central,Central,695,megawatthours
+2022-10-27,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Eastern,Eastern,998,megawatthours
+2022-10-26,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,14249,megawatthours
+2022-10-26,FLA,Florida,SUN,Solar,Mountain,Mountain,28577,megawatthours
+2022-10-27,TAL,City of Tallahassee,SUN,Solar,Eastern,Eastern,395,megawatthours
+2022-10-27,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Central,Central,76,megawatthours
+2022-10-27,IPCO,Idaho Power Company,SUN,Solar,Pacific,Pacific,1488,megawatthours
+2022-10-26,PJM,"PJM Interconnection, LLC",SUN,Solar,Central,Central,6242,megawatthours
+2022-10-27,CISO,California Independent System Operator,SUN,Solar,Pacific,Pacific,93936,megawatthours
+2022-10-27,TVA,Tennessee Valley Authority,SUN,Solar,Eastern,Eastern,4442,megawatthours
+2022-10-27,PNM,Public Service Company of New Mexico,SUN,Solar,Pacific,Pacific,2279,megawatthours
+2022-10-27,IID,Imperial Irrigation District,SUN,Solar,Central,Central,3881,megawatthours
+2022-10-27,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Arizona,Arizona,35,megawatthours
+2022-10-26,NE,New England,SUN,Solar,Pacific,Pacific,695,megawatthours
+2022-10-27,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-27,PNM,Public Service Company of New Mexico,SUN,Solar,Arizona,Arizona,2279,megawatthours
+2022-10-27,BPAT,Bonneville Power Administration,SUN,Solar,Pacific,Pacific,888,megawatthours
+2022-10-27,PACW,PacifiCorp West,SUN,Solar,Pacific,Pacific,2108,megawatthours
+2022-10-26,SE,Southeast,SUN,Solar,Pacific,Pacific,9188,megawatthours
+2022-10-26,FLA,Florida,SUN,Solar,Pacific,Pacific,28577,megawatthours
+2022-10-26,TAL,City of Tallahassee,SUN,Solar,Pacific,Pacific,416,megawatthours
+2022-10-27,MIDA,Mid-Atlantic,SUN,Solar,Eastern,Eastern,21010,megawatthours
+2022-10-27,SW,Southwest,SUN,Solar,Eastern,Eastern,15326,megawatthours
+2022-10-26,FPL,Florida Power & Light Co.,SUN,Solar,Pacific,Pacific,22649,megawatthours
+2022-10-26,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Mountain,Mountain,9189,megawatthours
+2022-10-27,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Mountain,Mountain,998,megawatthours
+2022-10-26,TAL,City of Tallahassee,SUN,Solar,Mountain,Mountain,416,megawatthours
+2022-10-27,NY,New York,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-27,NEVP,Nevada Power Company,SUN,Solar,Central,Central,16351,megawatthours
+2022-10-27,PNM,Public Service Company of New Mexico,SUN,Solar,Eastern,Eastern,2280,megawatthours
+2022-10-26,NWMT,NorthWestern Corporation,SUN,Solar,Arizona,Arizona,62,megawatthours
+2022-10-27,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Eastern,Eastern,5331,megawatthours
+2022-10-27,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Central,Central,10149,megawatthours
+2022-10-27,BPAT,Bonneville Power Administration,SUN,Solar,Eastern,Eastern,887,megawatthours
+2022-10-27,NE,New England,SUN,Solar,Eastern,Eastern,3093,megawatthours
+2022-10-23,NWMT,NorthWestern Corporation,SUN,Solar,Mountain,Mountain,6,megawatthours
+2022-10-23,NEVP,Nevada Power Company,SUN,Solar,Mountain,Mountain,13414,megawatthours
+2022-10-23,CAR,Carolinas,SUN,Solar,Eastern,Eastern,27807,megawatthours
+2022-10-23,TEN,Tennessee,SUN,Solar,Eastern,Eastern,3942,megawatthours
+2022-10-23,CENT,Central,SUN,Solar,Central,Central,487,megawatthours
+2022-10-23,TAL,City of Tallahassee,SUN,Solar,Eastern,Eastern,424,megawatthours
+2022-10-23,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Mountain,Mountain,7930,megawatthours
+2022-10-23,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-23,EPE,El Paso Electric Company,SUN,Solar,Mountain,Mountain,484,megawatthours
+2022-10-23,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Mountain,Mountain,962,megawatthours
+2022-10-27,TEX,Texas,SUN,Solar,Eastern,Eastern,49455,megawatthours
+2022-10-26,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,78424,megawatthours
+2022-10-27,US48,United States Lower 48,SUN,Solar,Eastern,Eastern,315704,megawatthours
+2022-10-27,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Mountain,Mountain,35,megawatthours
+2022-10-26,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Pacific,Pacific,4136,megawatthours
+2022-10-27,AVA,Avista Corporation,SUN,Solar,Arizona,Arizona,82,megawatthours
+2022-10-27,CAL,California,SUN,Solar,Mountain,Mountain,106930,megawatthours
+2022-10-26,SE,Southeast,SUN,Solar,Mountain,Mountain,9189,megawatthours
+2022-10-26,US48,United States Lower 48,SUN,Solar,Pacific,Pacific,303038,megawatthours
+2022-10-27,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Central,Central,35,megawatthours
+2022-10-26,CPLW,Duke Energy Progress West,SUN,Solar,Pacific,Pacific,105,megawatthours
+2022-10-23,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Arizona,Arizona,7930,megawatthours
+2022-10-23,TEPC,Tucson Electric Power,SUN,Solar,Mountain,Mountain,2097,megawatthours
+2022-10-23,CISO,California Independent System Operator,SUN,Solar,Arizona,Arizona,83534,megawatthours
+2022-10-23,PJM,"PJM Interconnection, LLC",SUN,Solar,Eastern,Eastern,9479,megawatthours
+2022-10-23,EPE,El Paso Electric Company,SUN,Solar,Pacific,Pacific,484,megawatthours
+2022-10-23,CPLW,Duke Energy Progress West,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-23,SE,Southeast,SUN,Solar,Central,Central,9908,megawatthours
+2022-10-23,BPAT,Bonneville Power Administration,SUN,Solar,Arizona,Arizona,735,megawatthours
+2022-10-23,NEVP,Nevada Power Company,SUN,Solar,Central,Central,13414,megawatthours
+2022-10-23,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Arizona,Arizona,930,megawatthours
+2022-10-27,BANC,Balancing Authority of Northern California,SUN,Solar,Eastern,Eastern,1278,megawatthours
+2022-10-27,AVA,Avista Corporation,SUN,Solar,Mountain,Mountain,82,megawatthours
+2022-10-27,IID,Imperial Irrigation District,SUN,Solar,Mountain,Mountain,3881,megawatthours
+2022-10-27,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Pacific,Pacific,1640,megawatthours
+2022-10-26,SWPP,Southwest Power Pool,SUN,Solar,Mountain,Mountain,1213,megawatthours
+2022-10-26,SEC,Seminole Electric Cooperative,SUN,Solar,Central,Central,9,megawatthours
+2022-10-26,CENT,Central,SUN,Solar,Mountain,Mountain,1213,megawatthours
+2022-10-27,BPAT,Bonneville Power Administration,SUN,Solar,Central,Central,888,megawatthours
+2022-10-27,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-26,NY,New York,SUN,Solar,Central,Central,0,megawatthours
+2022-10-26,MIDW,Midwest,SUN,Solar,Pacific,Pacific,14264,megawatthours
+2022-10-27,SW,Southwest,SUN,Solar,Mountain,Mountain,15367,megawatthours
+2022-10-26,TEC,Tampa Electric Company,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-26,TVA,Tennessee Valley Authority,SUN,Solar,Mountain,Mountain,2301,megawatthours
+2022-10-26,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Arizona,Arizona,4190,megawatthours
+2022-10-27,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Central,Central,0,megawatthours
+2022-10-27,PJM,"PJM Interconnection, LLC",SUN,Solar,Eastern,Eastern,21010,megawatthours
+2022-10-27,EPE,El Paso Electric Company,SUN,Solar,Central,Central,764,megawatthours
+2022-10-26,TEN,Tennessee,SUN,Solar,Arizona,Arizona,2303,megawatthours
+2022-10-27,SWPP,Southwest Power Pool,SUN,Solar,Eastern,Eastern,710,megawatthours
+2022-10-23,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Eastern,Eastern,931,megawatthours
+2022-10-23,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Pacific,Pacific,930,megawatthours
+2022-10-23,TVA,Tennessee Valley Authority,SUN,Solar,Eastern,Eastern,3942,megawatthours
+2022-10-23,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Pacific,Pacific,1583,megawatthours
+2022-10-27,CAR,Carolinas,SUN,Solar,Eastern,Eastern,24605,megawatthours
+2022-10-26,NY,New York,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-26,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Mountain,Mountain,15,megawatthours
+2022-10-26,PJM,"PJM Interconnection, LLC",SUN,Solar,Arizona,Arizona,6241,megawatthours
+2022-10-27,PACW,PacifiCorp West,SUN,Solar,Arizona,Arizona,2108,megawatthours
+2022-10-27,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-26,JEA,JEA,SUN,Solar,Central,Central,165,megawatthours
+2022-10-27,FPL,Florida Power & Light Co.,SUN,Solar,Eastern,Eastern,21417,megawatthours
+2022-10-27,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Mountain,Mountain,3229,megawatthours
+2022-10-27,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Arizona,Arizona,998,megawatthours
+2022-10-27,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Eastern,Eastern,7835,megawatthours
+2022-10-26,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Central,Central,4190,megawatthours
+2022-10-27,SC,South Carolina Public Service Authority,SUN,Solar,Eastern,Eastern,345,megawatthours
+2022-10-26,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Central,Central,4136,megawatthours
+2022-10-23,SW,Southwest,SUN,Solar,Pacific,Pacific,12412,megawatthours
+2022-10-23,TVA,Tennessee Valley Authority,SUN,Solar,Central,Central,3943,megawatthours
+2022-10-23,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Eastern,Eastern,1412,megawatthours
+2022-10-23,BANC,Balancing Authority of Northern California,SUN,Solar,Central,Central,1145,megawatthours
+2022-10-23,EPE,El Paso Electric Company,SUN,Solar,Arizona,Arizona,484,megawatthours
+2022-10-23,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-23,SW,Southwest,SUN,Solar,Mountain,Mountain,12471,megawatthours
+2022-10-23,MIDW,Midwest,SUN,Solar,Eastern,Eastern,13084,megawatthours
+2022-10-23,SEC,Seminole Electric Cooperative,SUN,Solar,Eastern,Eastern,5,megawatthours
+2022-10-23,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Arizona,Arizona,1583,megawatthours
+2022-10-23,CENT,Central,SUN,Solar,Eastern,Eastern,487,megawatthours
+2022-10-23,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Mountain,Mountain,1412,megawatthours
+2022-10-23,PNM,Public Service Company of New Mexico,SUN,Solar,Eastern,Eastern,2209,megawatthours
+2022-10-23,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-23,CAL,California,SUN,Solar,Central,Central,96398,megawatthours
+2022-10-23,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Pacific,Pacific,50,megawatthours
+2022-10-27,CAL,California,SUN,Solar,Pacific,Pacific,106930,megawatthours
+2022-10-27,TEN,Tennessee,SUN,Solar,Central,Central,4444,megawatthours
+2022-10-27,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Pacific,Pacific,7835,megawatthours
+2022-10-27,IID,Imperial Irrigation District,SUN,Solar,Arizona,Arizona,3881,megawatthours
+2022-10-27,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Central,Central,693,megawatthours
+2022-10-26,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Arizona,Arizona,4136,megawatthours
+2022-10-27,BPAT,Bonneville Power Administration,SUN,Solar,Arizona,Arizona,888,megawatthours
+2022-10-27,CENT,Central,SUN,Solar,Eastern,Eastern,710,megawatthours
+2022-10-26,TEX,Texas,SUN,Solar,Pacific,Pacific,78424,megawatthours
+2022-10-26,FLA,Florida,SUN,Solar,Central,Central,28577,megawatthours
+2022-10-27,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Eastern,Eastern,693,megawatthours
+2022-10-26,MIDA,Mid-Atlantic,SUN,Solar,Arizona,Arizona,6241,megawatthours
+2022-10-26,DUK,Duke Energy Carolinas,SUN,Solar,Pacific,Pacific,2547,megawatthours
+2022-10-26,MIDW,Midwest,SUN,Solar,Central,Central,14266,megawatthours
+2022-10-26,CPLW,Duke Energy Progress West,SUN,Solar,Central,Central,105,megawatthours
+2022-10-27,BANC,Balancing Authority of Northern California,SUN,Solar,Central,Central,1278,megawatthours
+2022-10-27,BANC,Balancing Authority of Northern California,SUN,Solar,Mountain,Mountain,1278,megawatthours
+2022-10-23,NW,Northwest,SUN,Solar,Mountain,Mountain,28987,megawatthours
+2022-10-23,IPCO,Idaho Power Company,SUN,Solar,Arizona,Arizona,1318,megawatthours
+2022-10-23,AZPS,Arizona Public Service Company,SUN,Solar,Eastern,Eastern,4770,megawatthours
+2022-10-23,TEPC,Tucson Electric Power,SUN,Solar,Eastern,Eastern,2097,megawatthours
+2022-10-23,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Mountain,Mountain,50,megawatthours
+2022-10-23,PNM,Public Service Company of New Mexico,SUN,Solar,Pacific,Pacific,2209,megawatthours
+2022-10-23,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Mountain,Mountain,1582,megawatthours
+2022-10-23,BPAT,Bonneville Power Administration,SUN,Solar,Central,Central,734,megawatthours
+2022-10-23,FPL,Florida Power & Light Co.,SUN,Solar,Eastern,Eastern,36963,megawatthours
+2022-10-23,PACW,PacifiCorp West,SUN,Solar,Mountain,Mountain,2194,megawatthours
+2022-10-23,NEVP,Nevada Power Company,SUN,Solar,Arizona,Arizona,13414,megawatthours
+2022-10-23,BANC,Balancing Authority of Northern California,SUN,Solar,Arizona,Arizona,1145,megawatthours
+2022-10-27,SW,Southwest,SUN,Solar,Central,Central,15354,megawatthours
+2022-10-26,CAR,Carolinas,SUN,Solar,Mountain,Mountain,14074,megawatthours
+2022-10-26,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Mountain,Mountain,4136,megawatthours
+2022-10-27,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Arizona,Arizona,1640,megawatthours
+2022-10-26,SC,South Carolina Public Service Authority,SUN,Solar,Pacific,Pacific,212,megawatthours
+2022-10-27,TEPC,Tucson Electric Power,SUN,Solar,Central,Central,3039,megawatthours
+2022-10-26,TEC,Tampa Electric Company,SUN,Solar,Central,Central,0,megawatthours
+2022-10-27,TEX,Texas,SUN,Solar,Central,Central,49456,megawatthours
+2022-10-27,PACW,PacifiCorp West,SUN,Solar,Mountain,Mountain,2108,megawatthours
+2022-10-27,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-27,TEPC,Tucson Electric Power,SUN,Solar,Arizona,Arizona,3039,megawatthours
+2022-10-27,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Pacific,Pacific,998,megawatthours
+2022-10-27,NYIS,New York Independent System Operator,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-23,CAL,California,SUN,Solar,Arizona,Arizona,96398,megawatthours
+2022-10-23,CISO,California Independent System Operator,SUN,Solar,Mountain,Mountain,83534,megawatthours
+2022-10-23,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Mountain,Mountain,931,megawatthours
+2022-10-23,PNM,Public Service Company of New Mexico,SUN,Solar,Arizona,Arizona,2209,megawatthours
+2022-10-23,CISO,California Independent System Operator,SUN,Solar,Pacific,Pacific,83534,megawatthours
+2022-10-23,IPCO,Idaho Power Company,SUN,Solar,Central,Central,1318,megawatthours
+2022-10-23,CISO,California Independent System Operator,SUN,Solar,Eastern,Eastern,83534,megawatthours
+2022-10-23,CAL,California,SUN,Solar,Eastern,Eastern,96398,megawatthours
+2022-10-23,AVA,Avista Corporation,SUN,Solar,Central,Central,88,megawatthours
+2022-10-23,SWPP,Southwest Power Pool,SUN,Solar,Central,Central,487,megawatthours
+2022-10-23,TEC,Tampa Electric Company,SUN,Solar,Eastern,Eastern,4591,megawatthours
+2022-10-23,NW,Northwest,SUN,Solar,Eastern,Eastern,29001,megawatthours
+2022-10-23,SW,Southwest,SUN,Solar,Central,Central,12500,megawatthours
+2022-10-23,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,13013,megawatthours
+2022-10-23,PSCO,Public Service Company of Colorado,SUN,Solar,Central,Central,4195,megawatthours
+2022-10-26,ISNE,ISO New England,SUN,Solar,Arizona,Arizona,695,megawatthours
+2022-10-27,CISO,California Independent System Operator,SUN,Solar,Central,Central,93936,megawatthours
+2022-10-26,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Mountain,Mountain,4190,megawatthours
+2022-10-27,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Central,Central,1640,megawatthours
+2022-10-26,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,14250,megawatthours
+2022-10-27,JEA,JEA,SUN,Solar,Eastern,Eastern,212,megawatthours
+2022-10-27,EPE,El Paso Electric Company,SUN,Solar,Mountain,Mountain,764,megawatthours
+2022-10-27,BANC,Balancing Authority of Northern California,SUN,Solar,Arizona,Arizona,1278,megawatthours
+2022-10-27,SE,Southeast,SUN,Solar,Central,Central,10149,megawatthours
+2022-10-27,CAL,California,SUN,Solar,Central,Central,106930,megawatthours
+2022-10-27,AZPS,Arizona Public Service Company,SUN,Solar,Arizona,Arizona,4427,megawatthours
+2022-10-26,CAR,Carolinas,SUN,Solar,Arizona,Arizona,14072,megawatthours
+2022-10-26,NYIS,New York Independent System Operator,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-27,PSCO,Public Service Company of Colorado,SUN,Solar,Central,Central,1056,megawatthours
+2022-10-27,BPAT,Bonneville Power Administration,SUN,Solar,Mountain,Mountain,888,megawatthours
+2022-10-26,CPLW,Duke Energy Progress West,SUN,Solar,Arizona,Arizona,105,megawatthours
+2022-10-27,MIDW,Midwest,SUN,Solar,Eastern,Eastern,14831,megawatthours
+2022-10-26,TEN,Tennessee,SUN,Solar,Mountain,Mountain,2301,megawatthours
+2022-10-26,PACE,PacifiCorp East,SUN,Solar,Pacific,Pacific,7949,megawatthours
+2022-10-23,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Central,Central,962,megawatthours
+2022-10-23,SW,Southwest,SUN,Solar,Arizona,Arizona,12412,megawatthours
+2022-10-23,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Eastern,Eastern,962,megawatthours
+2022-10-23,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Eastern,Eastern,7930,megawatthours
+2022-10-23,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Eastern,Eastern,6638,megawatthours
+2022-10-23,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Central,Central,71,megawatthours
+2022-10-23,PACW,PacifiCorp West,SUN,Solar,Pacific,Pacific,2194,megawatthours
+2022-10-23,AVA,Avista Corporation,SUN,Solar,Arizona,Arizona,88,megawatthours
+2022-10-23,NE,New England,SUN,Solar,Eastern,Eastern,1093,megawatthours
+2022-10-23,SW,Southwest,SUN,Solar,Eastern,Eastern,12519,megawatthours
+2022-10-23,NW,Northwest,SUN,Solar,Central,Central,28986,megawatthours
+2022-10-23,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Eastern,Eastern,5651,megawatthours
+2022-10-23,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-23,BPAT,Bonneville Power Administration,SUN,Solar,Eastern,Eastern,749,megawatthours
+2022-10-23,BPAT,Bonneville Power Administration,SUN,Solar,Pacific,Pacific,735,megawatthours
+2022-10-23,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Central,Central,9908,megawatthours
+2022-10-23,PACE,PacifiCorp East,SUN,Solar,Central,Central,5095,megawatthours
+2022-10-23,NWMT,NorthWestern Corporation,SUN,Solar,Central,Central,6,megawatthours
+2022-10-23,BANC,Balancing Authority of Northern California,SUN,Solar,Mountain,Mountain,1145,megawatthours
+2022-10-23,TEPC,Tucson Electric Power,SUN,Solar,Arizona,Arizona,2097,megawatthours
+2022-10-23,NEVP,Nevada Power Company,SUN,Solar,Eastern,Eastern,13414,megawatthours
+2022-10-26,SC,South Carolina Public Service Authority,SUN,Solar,Arizona,Arizona,212,megawatthours
+2022-10-26,SC,South Carolina Public Service Authority,SUN,Solar,Central,Central,212,megawatthours
+2022-10-27,IPCO,Idaho Power Company,SUN,Solar,Central,Central,1488,megawatthours
+2022-10-26,CPLE,Duke Energy Progress East,SUN,Solar,Central,Central,7020,megawatthours
+2022-10-26,CENT,Central,SUN,Solar,Pacific,Pacific,1213,megawatthours
+2022-10-27,TEPC,Tucson Electric Power,SUN,Solar,Eastern,Eastern,3039,megawatthours
+2022-10-27,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Arizona,Arizona,7835,megawatthours
+2022-10-27,SWPP,Southwest Power Pool,SUN,Solar,Central,Central,710,megawatthours
+2022-10-26,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Pacific,Pacific,9188,megawatthours
+2022-10-27,TEPC,Tucson Electric Power,SUN,Solar,Pacific,Pacific,3039,megawatthours
+2022-10-26,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Pacific,Pacific,15,megawatthours
+2022-10-26,FMPP,Florida Municipal Power Pool,SUN,Solar,Pacific,Pacific,1202,megawatthours
+2022-10-27,PACE,PacifiCorp East,SUN,Solar,Mountain,Mountain,10540,megawatthours
+2022-10-26,MIDW,Midwest,SUN,Solar,Arizona,Arizona,14264,megawatthours
+2022-10-23,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Central,Central,0,megawatthours
+2022-10-23,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Pacific,Pacific,7930,megawatthours
+2022-10-23,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Central,Central,930,megawatthours
+2022-10-23,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Arizona,Arizona,50,megawatthours
+2022-10-23,IID,Imperial Irrigation District,SUN,Solar,Mountain,Mountain,3789,megawatthours
+2022-10-23,BPAT,Bonneville Power Administration,SUN,Solar,Mountain,Mountain,734,megawatthours
+2022-10-23,IID,Imperial Irrigation District,SUN,Solar,Eastern,Eastern,3789,megawatthours
+2022-10-23,PSCO,Public Service Company of Colorado,SUN,Solar,Mountain,Mountain,4195,megawatthours
+2022-10-23,AZPS,Arizona Public Service Company,SUN,Solar,Central,Central,4732,megawatthours
+2022-10-23,FLA,Florida,SUN,Solar,Eastern,Eastern,49188,megawatthours
+2022-10-23,IPCO,Idaho Power Company,SUN,Solar,Mountain,Mountain,1318,megawatthours
+2022-10-23,SWPP,Southwest Power Pool,SUN,Solar,Eastern,Eastern,487,megawatthours
+2022-10-23,IID,Imperial Irrigation District,SUN,Solar,Pacific,Pacific,3789,megawatthours
+2022-10-23,NY,New York,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-23,CISO,California Independent System Operator,SUN,Solar,Central,Central,83534,megawatthours
+2022-10-27,AZPS,Arizona Public Service Company,SUN,Solar,Central,Central,4402,megawatthours
+2022-10-27,IID,Imperial Irrigation District,SUN,Solar,Pacific,Pacific,3881,megawatthours
+2022-10-27,PACW,PacifiCorp West,SUN,Solar,Eastern,Eastern,2108,megawatthours
+2022-10-26,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Arizona,Arizona,9188,megawatthours
+2022-10-26,TVA,Tennessee Valley Authority,SUN,Solar,Pacific,Pacific,2303,megawatthours
+2022-10-27,CISO,California Independent System Operator,SUN,Solar,Mountain,Mountain,93936,megawatthours
+2022-10-27,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,14755,megawatthours
+2022-10-27,IID,Imperial Irrigation District,SUN,Solar,Eastern,Eastern,3881,megawatthours
+2022-10-27,NWMT,NorthWestern Corporation,SUN,Solar,Mountain,Mountain,53,megawatthours
+2022-10-26,CPLE,Duke Energy Progress East,SUN,Solar,Pacific,Pacific,7018,megawatthours
+2022-10-26,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Arizona,Arizona,15,megawatthours
+2022-10-27,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Central,Central,7835,megawatthours
+2022-10-27,NEVP,Nevada Power Company,SUN,Solar,Eastern,Eastern,16357,megawatthours
+2022-10-26,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,78424,megawatthours
+2022-10-27,CAL,California,SUN,Solar,Eastern,Eastern,106930,megawatthours
+2022-10-27,AZPS,Arizona Public Service Company,SUN,Solar,Mountain,Mountain,4415,megawatthours
+2022-10-26,FPL,Florida Power & Light Co.,SUN,Solar,Mountain,Mountain,22649,megawatthours
+2022-10-26,MIDW,Midwest,SUN,Solar,Mountain,Mountain,14265,megawatthours
+2022-10-26,ISNE,ISO New England,SUN,Solar,Central,Central,695,megawatthours
+2022-10-26,US48,United States Lower 48,SUN,Solar,Mountain,Mountain,303045,megawatthours
+2022-10-23,AVA,Avista Corporation,SUN,Solar,Mountain,Mountain,88,megawatthours
+2022-10-23,CPLE,Duke Energy Progress East,SUN,Solar,Eastern,Eastern,14067,megawatthours
+2022-10-23,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Pacific,Pacific,1412,megawatthours
+2022-10-23,CAL,California,SUN,Solar,Mountain,Mountain,96398,megawatthours
+2022-10-23,AVA,Avista Corporation,SUN,Solar,Eastern,Eastern,88,megawatthours
+2022-10-23,SC,South Carolina Public Service Authority,SUN,Solar,Eastern,Eastern,539,megawatthours
+2022-10-23,AZPS,Arizona Public Service Company,SUN,Solar,Pacific,Pacific,4627,megawatthours
+2022-10-23,AVA,Avista Corporation,SUN,Solar,Pacific,Pacific,88,megawatthours
+2022-10-23,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Arizona,Arizona,1412,megawatthours
+2022-10-23,PSCO,Public Service Company of Colorado,SUN,Solar,Eastern,Eastern,4194,megawatthours
+2022-10-23,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Central,Central,1412,megawatthours
+2022-10-23,PNM,Public Service Company of New Mexico,SUN,Solar,Mountain,Mountain,2209,megawatthours
+2022-10-23,EPE,El Paso Electric Company,SUN,Solar,Eastern,Eastern,484,megawatthours
+2022-10-23,PACW,PacifiCorp West,SUN,Solar,Arizona,Arizona,2194,megawatthours
+2022-10-23,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,13013,megawatthours
+2022-10-23,AZPS,Arizona Public Service Company,SUN,Solar,Arizona,Arizona,4627,megawatthours
+2022-10-23,ISNE,ISO New England,SUN,Solar,Eastern,Eastern,1093,megawatthours
+2022-10-23,SE,Southeast,SUN,Solar,Eastern,Eastern,9910,megawatthours
+2022-10-26,CISO,California Independent System Operator,SUN,Solar,Arizona,Arizona,86569,megawatthours
+2022-10-25,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Pacific,Pacific,4905,megawatthours
+2022-10-25,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Mountain,Mountain,5992,megawatthours
+2022-10-26,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Eastern,Eastern,1046,megawatthours
+2022-10-25,NE,New England,SUN,Solar,Central,Central,1024,megawatthours
+2022-10-25,FPL,Florida Power & Light Co.,SUN,Solar,Central,Central,22660,megawatthours
+2022-10-26,NEVP,Nevada Power Company,SUN,Solar,Mountain,Mountain,15020,megawatthours
+2022-10-26,PSCO,Public Service Company of Colorado,SUN,Solar,Eastern,Eastern,3956,megawatthours
+2022-10-25,SC,South Carolina Public Service Authority,SUN,Solar,Arizona,Arizona,485,megawatthours
+2022-10-26,TAL,City of Tallahassee,SUN,Solar,Eastern,Eastern,416,megawatthours
+2022-10-24,NW,Northwest,SUN,Solar,Mountain,Mountain,35717,megawatthours
+2022-10-23,FLA,Florida,SUN,Solar,Mountain,Mountain,49189,megawatthours
+2022-10-23,CPLE,Duke Energy Progress East,SUN,Solar,Mountain,Mountain,14068,megawatthours
+2022-10-23,NE,New England,SUN,Solar,Central,Central,1093,megawatthours
+2022-10-23,PSCO,Public Service Company of Colorado,SUN,Solar,Arizona,Arizona,4192,megawatthours
+2022-10-24,TEPC,Tucson Electric Power,SUN,Solar,Pacific,Pacific,3139,megawatthours
+2022-10-24,TEPC,Tucson Electric Power,SUN,Solar,Eastern,Eastern,3139,megawatthours
+2022-10-24,AVA,Avista Corporation,SUN,Solar,Pacific,Pacific,41,megawatthours
+2022-10-23,DUK,Duke Energy Carolinas,SUN,Solar,Pacific,Pacific,6561,megawatthours
+2022-10-24,IPCO,Idaho Power Company,SUN,Solar,Eastern,Eastern,808,megawatthours
+2022-10-23,CPLW,Duke Energy Progress West,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-24,AZPS,Arizona Public Service Company,SUN,Solar,Mountain,Mountain,4810,megawatthours
+2022-10-26,CAR,Carolinas,SUN,Solar,Eastern,Eastern,14079,megawatthours
+2022-10-25,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,5767,megawatthours
+2022-10-26,MIDW,Midwest,SUN,Solar,Eastern,Eastern,14267,megawatthours
+2022-10-25,NY,New York,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-25,TVA,Tennessee Valley Authority,SUN,Solar,Arizona,Arizona,1177,megawatthours
+2022-10-25,DUK,Duke Energy Carolinas,SUN,Solar,Pacific,Pacific,5958,megawatthours
+2022-10-26,PNM,Public Service Company of New Mexico,SUN,Solar,Pacific,Pacific,3462,megawatthours
+2022-10-25,PACE,PacifiCorp East,SUN,Solar,Arizona,Arizona,7853,megawatthours
+2022-10-26,IPCO,Idaho Power Company,SUN,Solar,Arizona,Arizona,1050,megawatthours
+2022-10-26,CISO,California Independent System Operator,SUN,Solar,Pacific,Pacific,86569,megawatthours
+2022-10-25,CAR,Carolinas,SUN,Solar,Pacific,Pacific,24137,megawatthours
+2022-10-26,SWPP,Southwest Power Pool,SUN,Solar,Central,Central,1213,megawatthours
+2022-10-28,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,31218,megawatthours
+2022-10-29,SE,Southeast,SUN,Solar,Central,Central,3466,megawatthours
+2022-10-29,FPL,Florida Power & Light Co.,SUN,Solar,Eastern,Eastern,13333,megawatthours
+2022-10-28,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Mountain,Mountain,3255,megawatthours
+2022-10-28,TEC,Tampa Electric Company,SUN,Solar,Pacific,Pacific,3762,megawatthours
+2022-10-28,TAL,City of Tallahassee,SUN,Solar,Pacific,Pacific,258,megawatthours
+2022-10-29,TVA,Tennessee Valley Authority,SUN,Solar,Central,Central,2797,megawatthours
+2022-10-28,SWPP,Southwest Power Pool,SUN,Solar,Pacific,Pacific,1296,megawatthours
+2022-10-29,EPE,El Paso Electric Company,SUN,Solar,Pacific,Pacific,807,megawatthours
+2022-10-28,ISNE,ISO New England,SUN,Solar,Central,Central,2782,megawatthours
+2022-10-29,PACE,PacifiCorp East,SUN,Solar,Eastern,Eastern,9606,megawatthours
+2022-10-28,TVA,Tennessee Valley Authority,SUN,Solar,Arizona,Arizona,3676,megawatthours
+2022-10-29,BPAT,Bonneville Power Administration,SUN,Solar,Pacific,Pacific,828,megawatthours
+2022-10-26,NEVP,Nevada Power Company,SUN,Solar,Arizona,Arizona,15017,megawatthours
+2022-10-26,CAL,California,SUN,Solar,Eastern,Eastern,98887,megawatthours
+2022-10-25,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,86890,megawatthours
+2022-10-26,BANC,Balancing Authority of Northern California,SUN,Solar,Pacific,Pacific,1291,megawatthours
+2022-10-26,TVA,Tennessee Valley Authority,SUN,Solar,Eastern,Eastern,2301,megawatthours
+2022-10-26,SW,Southwest,SUN,Solar,Pacific,Pacific,16762,megawatthours
+2022-10-25,JEA,JEA,SUN,Solar,Pacific,Pacific,233,megawatthours
+2022-10-26,CAL,California,SUN,Solar,Central,Central,98887,megawatthours
+2022-10-25,TAL,City of Tallahassee,SUN,Solar,Mountain,Mountain,254,megawatthours
+2022-10-26,NY,New York,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-26,PNM,Public Service Company of New Mexico,SUN,Solar,Mountain,Mountain,3461,megawatthours
+2022-10-25,US48,United States Lower 48,SUN,Solar,Central,Central,323687,megawatthours
+2022-10-26,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Pacific,Pacific,3250,megawatthours
+2022-10-25,JEA,JEA,SUN,Solar,Mountain,Mountain,233,megawatthours
+2022-10-26,NE,New England,SUN,Solar,Eastern,Eastern,695,megawatthours
+2022-10-23,PJM,"PJM Interconnection, LLC",SUN,Solar,Mountain,Mountain,9479,megawatthours
+2022-10-23,TEX,Texas,SUN,Solar,Mountain,Mountain,33951,megawatthours
+2022-10-24,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,8388,megawatthours
+2022-10-24,PACW,PacifiCorp West,SUN,Solar,Eastern,Eastern,873,megawatthours
+2022-10-23,SE,Southeast,SUN,Solar,Pacific,Pacific,9908,megawatthours
+2022-10-23,CPLW,Duke Energy Progress West,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-23,TVA,Tennessee Valley Authority,SUN,Solar,Arizona,Arizona,3943,megawatthours
+2022-10-23,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,33951,megawatthours
+2022-10-23,TEC,Tampa Electric Company,SUN,Solar,Central,Central,4591,megawatthours
+2022-10-24,PACW,PacifiCorp West,SUN,Solar,Mountain,Mountain,873,megawatthours
+2022-10-24,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Central,Central,1688,megawatthours
+2022-10-23,NWMT,NorthWestern Corporation,SUN,Solar,Pacific,Pacific,6,megawatthours
+2022-10-23,NY,New York,SUN,Solar,Central,Central,0,megawatthours
+2022-10-23,NYIS,New York Independent System Operator,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-23,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,13012,megawatthours
+2022-10-23,TAL,City of Tallahassee,SUN,Solar,Pacific,Pacific,424,megawatthours
+2022-10-23,NY,New York,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-24,IID,Imperial Irrigation District,SUN,Solar,Pacific,Pacific,4078,megawatthours
+2022-10-23,PSCO,Public Service Company of Colorado,SUN,Solar,Pacific,Pacific,4192,megawatthours
+2022-10-24,SW,Southwest,SUN,Solar,Central,Central,16255,megawatthours
+2022-10-23,CPLE,Duke Energy Progress East,SUN,Solar,Arizona,Arizona,14069,megawatthours
+2022-10-23,CPLE,Duke Energy Progress East,SUN,Solar,Central,Central,14068,megawatthours
+2022-10-23,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Arizona,Arizona,71,megawatthours
+2022-10-24,CAL,California,SUN,Solar,Arizona,Arizona,107287,megawatthours
+2022-10-26,SC,South Carolina Public Service Authority,SUN,Solar,Eastern,Eastern,212,megawatthours
+2022-10-25,NW,Northwest,SUN,Solar,Pacific,Pacific,33701,megawatthours
+2022-10-26,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Eastern,Eastern,48,megawatthours
+2022-10-25,CPLW,Duke Energy Progress West,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-26,ISNE,ISO New England,SUN,Solar,Eastern,Eastern,695,megawatthours
+2022-10-25,SWPP,Southwest Power Pool,SUN,Solar,Arizona,Arizona,1551,megawatthours
+2022-10-26,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Eastern,Eastern,4136,megawatthours
+2022-10-26,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Arizona,Arizona,1046,megawatthours
+2022-10-26,TEPC,Tucson Electric Power,SUN,Solar,Arizona,Arizona,2978,megawatthours
+2022-10-26,SEC,Seminole Electric Cooperative,SUN,Solar,Eastern,Eastern,9,megawatthours
+2022-10-25,ISNE,ISO New England,SUN,Solar,Mountain,Mountain,1024,megawatthours
+2022-10-26,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Eastern,Eastern,9186,megawatthours
+2022-10-29,AZPS,Arizona Public Service Company,SUN,Solar,Central,Central,4002,megawatthours
+2022-10-29,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Mountain,Mountain,3200,megawatthours
+2022-10-29,BPAT,Bonneville Power Administration,SUN,Solar,Arizona,Arizona,828,megawatthours
+2022-10-28,NWMT,NorthWestern Corporation,SUN,Solar,Pacific,Pacific,49,megawatthours
+2022-10-28,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Central,Central,4965,megawatthours
+2022-10-29,IID,Imperial Irrigation District,SUN,Solar,Arizona,Arizona,3867,megawatthours
+2022-10-28,FPL,Florida Power & Light Co.,SUN,Solar,Central,Central,18978,megawatthours
+2022-10-29,CISO,California Independent System Operator,SUN,Solar,Arizona,Arizona,94096,megawatthours
+2022-10-29,IID,Imperial Irrigation District,SUN,Solar,Central,Central,3867,megawatthours
+2022-10-29,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-29,SW,Southwest,SUN,Solar,Pacific,Pacific,15904,megawatthours
+2022-10-29,CAL,California,SUN,Solar,Central,Central,106585,megawatthours
+2022-10-28,CAR,Carolinas,SUN,Solar,Central,Central,17837,megawatthours
+2022-10-23,FLA,Florida,SUN,Solar,Pacific,Pacific,49189,megawatthours
+2022-10-23,MIDW,Midwest,SUN,Solar,Mountain,Mountain,13083,megawatthours
+2022-10-24,PNM,Public Service Company of New Mexico,SUN,Solar,Central,Central,2516,megawatthours
+2022-10-23,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Arizona,Arizona,6638,megawatthours
+2022-10-23,TAL,City of Tallahassee,SUN,Solar,Mountain,Mountain,424,megawatthours
+2022-10-24,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Central,Central,0,megawatthours
+2022-10-24,PACW,PacifiCorp West,SUN,Solar,Central,Central,873,megawatthours
+2022-10-23,DUK,Duke Energy Carolinas,SUN,Solar,Mountain,Mountain,6562,megawatthours
+2022-10-23,CENT,Central,SUN,Solar,Mountain,Mountain,487,megawatthours
+2022-10-23,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Pacific,Pacific,6638,megawatthours
+2022-10-23,MIDA,Mid-Atlantic,SUN,Solar,Arizona,Arizona,9479,megawatthours
+2022-10-24,PACW,PacifiCorp West,SUN,Solar,Pacific,Pacific,873,megawatthours
+2022-10-24,SE,Southeast,SUN,Solar,Central,Central,9553,megawatthours
+2022-10-24,CISO,California Independent System Operator,SUN,Solar,Eastern,Eastern,93734,megawatthours
+2022-10-24,PNM,Public Service Company of New Mexico,SUN,Solar,Mountain,Mountain,2516,megawatthours
+2022-10-23,FLA,Florida,SUN,Solar,Arizona,Arizona,49189,megawatthours
+2022-10-23,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,33951,megawatthours
+2022-10-23,NW,Northwest,SUN,Solar,Arizona,Arizona,28984,megawatthours
+2022-10-23,TEN,Tennessee,SUN,Solar,Arizona,Arizona,3943,megawatthours
+2022-10-24,IPCO,Idaho Power Company,SUN,Solar,Central,Central,808,megawatthours
+2022-10-24,NEVP,Nevada Power Company,SUN,Solar,Arizona,Arizona,15916,megawatthours
+2022-10-23,ISNE,ISO New England,SUN,Solar,Pacific,Pacific,1093,megawatthours
+2022-10-24,PSCO,Public Service Company of Colorado,SUN,Solar,Central,Central,3847,megawatthours
+2022-10-23,SEC,Seminole Electric Cooperative,SUN,Solar,Pacific,Pacific,5,megawatthours
+2022-10-24,IID,Imperial Irrigation District,SUN,Solar,Eastern,Eastern,4078,megawatthours
+2022-10-24,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Central,Central,9553,megawatthours
+2022-10-25,NYIS,New York Independent System Operator,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-25,NY,New York,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-26,EPE,El Paso Electric Company,SUN,Solar,Central,Central,815,megawatthours
+2022-10-25,SC,South Carolina Public Service Authority,SUN,Solar,Pacific,Pacific,485,megawatthours
+2022-10-26,CISO,California Independent System Operator,SUN,Solar,Central,Central,86569,megawatthours
+2022-10-26,MIDA,Mid-Atlantic,SUN,Solar,Eastern,Eastern,6242,megawatthours
+2022-10-25,SC,South Carolina Public Service Authority,SUN,Solar,Mountain,Mountain,485,megawatthours
+2022-10-26,BANC,Balancing Authority of Northern California,SUN,Solar,Arizona,Arizona,1291,megawatthours
+2022-10-26,IPCO,Idaho Power Company,SUN,Solar,Pacific,Pacific,1050,megawatthours
+2022-10-26,BPAT,Bonneville Power Administration,SUN,Solar,Arizona,Arizona,544,megawatthours
+2022-10-26,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-26,IID,Imperial Irrigation District,SUN,Solar,Mountain,Mountain,3794,megawatthours
+2022-10-25,CENT,Central,SUN,Solar,Pacific,Pacific,1551,megawatthours
+2022-10-26,PACW,PacifiCorp West,SUN,Solar,Mountain,Mountain,1629,megawatthours
+2022-10-26,PACW,PacifiCorp West,SUN,Solar,Central,Central,1629,megawatthours
+2022-10-25,PJM,"PJM Interconnection, LLC",SUN,Solar,Mountain,Mountain,7014,megawatthours
+2022-10-29,SW,Southwest,SUN,Solar,Central,Central,15927,megawatthours
+2022-10-29,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Eastern,Eastern,41,megawatthours
+2022-10-28,CPLW,Duke Energy Progress West,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-29,AVA,Avista Corporation,SUN,Solar,Mountain,Mountain,89,megawatthours
+2022-10-28,JEA,JEA,SUN,Solar,Pacific,Pacific,38,megawatthours
+2022-10-28,JEA,JEA,SUN,Solar,Mountain,Mountain,38,megawatthours
+2022-10-29,SW,Southwest,SUN,Solar,Eastern,Eastern,15938,megawatthours
+2022-10-29,PACW,PacifiCorp West,SUN,Solar,Eastern,Eastern,1642,megawatthours
+2022-10-28,NYIS,New York Independent System Operator,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-28,PJM,"PJM Interconnection, LLC",SUN,Solar,Pacific,Pacific,12452,megawatthours
+2022-10-28,MIDA,Mid-Atlantic,SUN,Solar,Central,Central,12452,megawatthours
+2022-10-29,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Mountain,Mountain,7445,megawatthours
+2022-10-28,TEN,Tennessee,SUN,Solar,Pacific,Pacific,3676,megawatthours
+2022-10-29,NWMT,NorthWestern Corporation,SUN,Solar,Mountain,Mountain,70,megawatthours
+2022-10-28,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,31218,megawatthours
+2022-10-29,SW,Southwest,SUN,Solar,Mountain,Mountain,15919,megawatthours
+2022-10-29,CAL,California,SUN,Solar,Mountain,Mountain,106585,megawatthours
+2022-10-24,NW,Northwest,SUN,Solar,Central,Central,35675,megawatthours
+2022-10-23,NYIS,New York Independent System Operator,SUN,Solar,Central,Central,0,megawatthours
+2022-10-23,TAL,City of Tallahassee,SUN,Solar,Central,Central,424,megawatthours
+2022-10-23,ISNE,ISO New England,SUN,Solar,Mountain,Mountain,1093,megawatthours
+2022-10-24,IID,Imperial Irrigation District,SUN,Solar,Central,Central,4078,megawatthours
+2022-10-23,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Mountain,Mountain,5651,megawatthours
+2022-10-24,BANC,Balancing Authority of Northern California,SUN,Solar,Eastern,Eastern,1381,megawatthours
+2022-10-23,PACE,PacifiCorp East,SUN,Solar,Pacific,Pacific,5095,megawatthours
+2022-10-24,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Mountain,Mountain,3430,megawatthours
+2022-10-23,TEN,Tennessee,SUN,Solar,Mountain,Mountain,3940,megawatthours
+2022-10-24,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Central,Central,66,megawatthours
+2022-10-23,TEC,Tampa Electric Company,SUN,Solar,Mountain,Mountain,4591,megawatthours
+2022-10-24,NWMT,NorthWestern Corporation,SUN,Solar,Mountain,Mountain,70,megawatthours
+2022-10-23,JEA,JEA,SUN,Solar,Arizona,Arizona,225,megawatthours
+2022-10-24,PACE,PacifiCorp East,SUN,Solar,Eastern,Eastern,11877,megawatthours
+2022-10-23,CAR,Carolinas,SUN,Solar,Arizona,Arizona,27807,megawatthours
+2022-10-23,SC,South Carolina Public Service Authority,SUN,Solar,Mountain,Mountain,539,megawatthours
+2022-10-24,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Pacific,Pacific,32,megawatthours
+2022-10-23,CPLW,Duke Energy Progress West,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-24,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Eastern,Eastern,956,megawatthours
+2022-10-24,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Pacific,Pacific,1063,megawatthours
+2022-10-23,SC,South Carolina Public Service Authority,SUN,Solar,Arizona,Arizona,539,megawatthours
+2022-10-24,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Mountain,Mountain,1673,megawatthours
+2022-10-24,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Pacific,Pacific,8079,megawatthours
+2022-10-24,TEN,Tennessee,SUN,Solar,Eastern,Eastern,3631,megawatthours
+2022-10-24,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,8386,megawatthours
+2022-10-24,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Central,Central,3430,megawatthours
+2022-10-23,CAR,Carolinas,SUN,Solar,Central,Central,27810,megawatthours
+2022-10-23,TVA,Tennessee Valley Authority,SUN,Solar,Pacific,Pacific,3943,megawatthours
+2022-10-23,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Mountain,Mountain,9908,megawatthours
+2022-10-24,NYIS,New York Independent System Operator,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-26,IID,Imperial Irrigation District,SUN,Solar,Pacific,Pacific,3794,megawatthours
+2022-10-26,PJM,"PJM Interconnection, LLC",SUN,Solar,Eastern,Eastern,6242,megawatthours
+2022-10-26,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Central,Central,15,megawatthours
+2022-10-26,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Central,Central,7233,megawatthours
+2022-10-26,PACW,PacifiCorp West,SUN,Solar,Pacific,Pacific,1629,megawatthours
+2022-10-25,MIDA,Mid-Atlantic,SUN,Solar,Central,Central,7013,megawatthours
+2022-10-25,PACE,PacifiCorp East,SUN,Solar,Pacific,Pacific,7853,megawatthours
+2022-10-26,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Pacific,Pacific,48,megawatthours
+2022-10-25,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Pacific,Pacific,7937,megawatthours
+2022-10-25,FMPP,Florida Municipal Power Pool,SUN,Solar,Pacific,Pacific,807,megawatthours
+2022-10-26,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Central,Central,1046,megawatthours
+2022-10-25,FMPP,Florida Municipal Power Pool,SUN,Solar,Arizona,Arizona,807,megawatthours
+2022-10-25,DUK,Duke Energy Carolinas,SUN,Solar,Arizona,Arizona,5958,megawatthours
+2022-10-26,CENT,Central,SUN,Solar,Central,Central,1213,megawatthours
+2022-10-28,SEC,Seminole Electric Cooperative,SUN,Solar,Mountain,Mountain,10,megawatthours
+2022-10-29,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Pacific,Pacific,41,megawatthours
+2022-10-28,JEA,JEA,SUN,Solar,Arizona,Arizona,38,megawatthours
+2022-10-29,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Mountain,Mountain,1591,megawatthours
+2022-10-29,ISNE,ISO New England,SUN,Solar,Eastern,Eastern,3108,megawatthours
+2022-10-29,NEVP,Nevada Power Company,SUN,Solar,Eastern,Eastern,14954,megawatthours
+2022-10-29,CISO,California Independent System Operator,SUN,Solar,Central,Central,94096,megawatthours
+2022-10-28,FLA,Florida,SUN,Solar,Pacific,Pacific,27017,megawatthours
+2022-10-29,AZPS,Arizona Public Service Company,SUN,Solar,Arizona,Arizona,3980,megawatthours
+2022-10-29,PNM,Public Service Company of New Mexico,SUN,Solar,Central,Central,3370,megawatthours
+2022-10-28,NY,New York,SUN,Solar,Central,Central,0,megawatthours
+2022-10-29,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Eastern,Eastern,1146,megawatthours
+2022-10-29,CISO,California Independent System Operator,SUN,Solar,Eastern,Eastern,94096,megawatthours
+2022-10-24,CISO,California Independent System Operator,SUN,Solar,Central,Central,93739,megawatthours
+2022-10-24,TEN,Tennessee,SUN,Solar,Central,Central,3628,megawatthours
+2022-10-24,SW,Southwest,SUN,Solar,Pacific,Pacific,16199,megawatthours
+2022-10-23,ISNE,ISO New England,SUN,Solar,Arizona,Arizona,1093,megawatthours
+2022-10-23,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,33951,megawatthours
+2022-10-24,BANC,Balancing Authority of Northern California,SUN,Solar,Central,Central,1381,megawatthours
+2022-10-23,FPL,Florida Power & Light Co.,SUN,Solar,Central,Central,36963,megawatthours
+2022-10-24,SW,Southwest,SUN,Solar,Mountain,Mountain,16219,megawatthours
+2022-10-24,EPE,El Paso Electric Company,SUN,Solar,Pacific,Pacific,651,megawatthours
+2022-10-24,NY,New York,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-23,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Central,Central,6638,megawatthours
+2022-10-24,BPAT,Bonneville Power Administration,SUN,Solar,Mountain,Mountain,276,megawatthours
+2022-10-23,US48,United States Lower 48,SUN,Solar,Central,Central,286827,megawatthours
+2022-10-24,AVA,Avista Corporation,SUN,Solar,Central,Central,41,megawatthours
+2022-10-23,NWMT,NorthWestern Corporation,SUN,Solar,Arizona,Arizona,6,megawatthours
+2022-10-24,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Mountain,Mountain,32,megawatthours
+2022-10-23,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,33951,megawatthours
+2022-10-24,FMPP,Florida Municipal Power Pool,SUN,Solar,Eastern,Eastern,1195,megawatthours
+2022-10-23,FMPP,Florida Municipal Power Pool,SUN,Solar,Mountain,Mountain,1329,megawatthours
+2022-10-24,TEPC,Tucson Electric Power,SUN,Solar,Mountain,Mountain,3139,megawatthours
+2022-10-24,TVA,Tennessee Valley Authority,SUN,Solar,Eastern,Eastern,3631,megawatthours
+2022-10-24,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-24,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-23,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Pacific,Pacific,5651,megawatthours
+2022-10-24,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Eastern,Eastern,8079,megawatthours
+2022-10-24,PJM,"PJM Interconnection, LLC",SUN,Solar,Eastern,Eastern,14233,megawatthours
+2022-10-24,AZPS,Arizona Public Service Company,SUN,Solar,Central,Central,4831,megawatthours
+2022-10-24,AZPS,Arizona Public Service Company,SUN,Solar,Eastern,Eastern,4855,megawatthours
+2022-10-24,DUK,Duke Energy Carolinas,SUN,Solar,Eastern,Eastern,5929,megawatthours
+2022-10-25,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,5767,megawatthours
+2022-10-26,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Central,Central,3250,megawatthours
+2022-10-26,CENT,Central,SUN,Solar,Eastern,Eastern,1213,megawatthours
+2022-10-26,SW,Southwest,SUN,Solar,Eastern,Eastern,16761,megawatthours
+2022-10-25,CPLE,Duke Energy Progress East,SUN,Solar,Central,Central,11703,megawatthours
+2022-10-26,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,14252,megawatthours
+2022-10-26,BANC,Balancing Authority of Northern California,SUN,Solar,Mountain,Mountain,1291,megawatthours
+2022-10-26,FMPP,Florida Municipal Power Pool,SUN,Solar,Eastern,Eastern,1202,megawatthours
+2022-10-29,NWMT,NorthWestern Corporation,SUN,Solar,Eastern,Eastern,70,megawatthours
+2022-10-28,MIDA,Mid-Atlantic,SUN,Solar,Arizona,Arizona,12452,megawatthours
+2022-10-29,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Arizona,Arizona,952,megawatthours
+2022-10-28,SE,Southeast,SUN,Solar,Mountain,Mountain,7717,megawatthours
+2022-10-29,CENT,Central,SUN,Solar,Eastern,Eastern,1466,megawatthours
+2022-10-29,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,64524,megawatthours
+2022-10-28,NY,New York,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-29,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Pacific,Pacific,7445,megawatthours
+2022-10-28,SE,Southeast,SUN,Solar,Arizona,Arizona,7718,megawatthours
+2022-10-28,PACE,PacifiCorp East,SUN,Solar,Arizona,Arizona,12049,megawatthours
+2022-10-29,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,12424,megawatthours
+2022-10-28,FMPP,Florida Municipal Power Pool,SUN,Solar,Central,Central,616,megawatthours
+2022-10-29,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-29,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Central,Central,1146,megawatthours
+2022-10-29,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Arizona,Arizona,1146,megawatthours
+2022-10-28,PJM,"PJM Interconnection, LLC",SUN,Solar,Central,Central,12452,megawatthours
+2022-10-24,PACE,PacifiCorp East,SUN,Solar,Mountain,Mountain,11877,megawatthours
+2022-10-24,MIDA,Mid-Atlantic,SUN,Solar,Eastern,Eastern,14233,megawatthours
+2022-10-24,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Mountain,Mountain,1063,megawatthours
+2022-10-24,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,43676,megawatthours
+2022-10-24,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Central,Central,32,megawatthours
+2022-10-23,NYIS,New York Independent System Operator,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-24,AVA,Avista Corporation,SUN,Solar,Mountain,Mountain,41,megawatthours
+2022-10-23,TEN,Tennessee,SUN,Solar,Pacific,Pacific,3943,megawatthours
+2022-10-23,JEA,JEA,SUN,Solar,Pacific,Pacific,225,megawatthours
+2022-10-24,SW,Southwest,SUN,Solar,Eastern,Eastern,16296,megawatthours
+2022-10-24,IPCO,Idaho Power Company,SUN,Solar,Pacific,Pacific,808,megawatthours
+2022-10-23,FMPP,Florida Municipal Power Pool,SUN,Solar,Pacific,Pacific,1329,megawatthours
+2022-10-24,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Eastern,Eastern,1705,megawatthours
+2022-10-23,NE,New England,SUN,Solar,Arizona,Arizona,1093,megawatthours
+2022-10-24,SC,South Carolina Public Service Authority,SUN,Solar,Eastern,Eastern,399,megawatthours
+2022-10-24,NW,Northwest,SUN,Solar,Eastern,Eastern,35635,megawatthours
+2022-10-24,PACW,PacifiCorp West,SUN,Solar,Arizona,Arizona,873,megawatthours
+2022-10-23,TVA,Tennessee Valley Authority,SUN,Solar,Mountain,Mountain,3940,megawatthours
+2022-10-24,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Eastern,Eastern,32,megawatthours
+2022-10-24,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Eastern,Eastern,9552,megawatthours
+2022-10-23,SE,Southeast,SUN,Solar,Arizona,Arizona,9908,megawatthours
+2022-10-29,SWPP,Southwest Power Pool,SUN,Solar,Eastern,Eastern,1466,megawatthours
+2022-10-28,TVA,Tennessee Valley Authority,SUN,Solar,Mountain,Mountain,3673,megawatthours
+2022-10-28,NY,New York,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-29,NEVP,Nevada Power Company,SUN,Solar,Pacific,Pacific,14919,megawatthours
+2022-10-28,US48,United States Lower 48,SUN,Solar,Mountain,Mountain,274271,megawatthours
+2022-10-29,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Central,Central,7445,megawatthours
+2022-10-28,CPLE,Duke Energy Progress East,SUN,Solar,Arizona,Arizona,7703,megawatthours
+2022-10-28,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,14799,megawatthours
+2022-10-28,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Arizona,Arizona,64,megawatthours
+2022-10-29,PACW,PacifiCorp West,SUN,Solar,Pacific,Pacific,1642,megawatthours
+2022-10-29,MIDW,Midwest,SUN,Solar,Eastern,Eastern,12484,megawatthours
+2022-10-29,TEPC,Tucson Electric Power,SUN,Solar,Central,Central,2957,megawatthours
+2022-10-29,NEVP,Nevada Power Company,SUN,Solar,Mountain,Mountain,14937,megawatthours
+2022-10-28,FLA,Florida,SUN,Solar,Central,Central,26917,megawatthours
+2022-10-28,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Central,Central,3255,megawatthours
+2022-10-28,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Pacific,Pacific,64,megawatthours
+2022-10-24,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Eastern,Eastern,3430,megawatthours
+2022-10-24,CISO,California Independent System Operator,SUN,Solar,Mountain,Mountain,93744,megawatthours
+2022-10-24,EPE,El Paso Electric Company,SUN,Solar,Central,Central,651,megawatthours
+2022-10-24,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Mountain,Mountain,8079,megawatthours
+2022-10-23,SC,South Carolina Public Service Authority,SUN,Solar,Pacific,Pacific,539,megawatthours
+2022-10-24,CPLE,Duke Energy Progress East,SUN,Solar,Eastern,Eastern,15491,megawatthours
+2022-10-23,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Arizona,Arizona,9908,megawatthours
+2022-10-23,SEC,Seminole Electric Cooperative,SUN,Solar,Central,Central,5,megawatthours
+2022-10-24,FLA,Florida,SUN,Solar,Eastern,Eastern,32865,megawatthours
+2022-10-24,CAL,California,SUN,Solar,Central,Central,107277,megawatthours
+2022-10-24,CENT,Central,SUN,Solar,Central,Central,728,megawatthours
+2022-10-23,US48,United States Lower 48,SUN,Solar,Mountain,Mountain,286793,megawatthours
+2022-10-26,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Eastern,Eastern,1016,megawatthours
+2022-10-26,NWMT,NorthWestern Corporation,SUN,Solar,Central,Central,62,megawatthours
+2022-10-26,IPCO,Idaho Power Company,SUN,Solar,Eastern,Eastern,1050,megawatthours
+2022-10-25,NE,New England,SUN,Solar,Arizona,Arizona,1024,megawatthours
+2022-10-26,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Mountain,Mountain,1046,megawatthours
+2022-10-25,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Central,Central,4905,megawatthours
+2022-10-26,CAL,California,SUN,Solar,Arizona,Arizona,98887,megawatthours
+2022-10-25,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Central,Central,5992,megawatthours
+2022-10-26,NEVP,Nevada Power Company,SUN,Solar,Pacific,Pacific,15017,megawatthours
+2022-10-25,NYIS,New York Independent System Operator,SUN,Solar,Central,Central,0,megawatthours
+2022-10-26,SW,Southwest,SUN,Solar,Central,Central,16766,megawatthours
+2022-10-26,EPE,El Paso Electric Company,SUN,Solar,Mountain,Mountain,815,megawatthours
+2022-10-26,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Central,Central,1016,megawatthours
+2022-10-26,BANC,Balancing Authority of Northern California,SUN,Solar,Eastern,Eastern,1291,megawatthours
+2022-10-26,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Pacific,Pacific,1556,megawatthours
+2022-10-25,NE,New England,SUN,Solar,Pacific,Pacific,1024,megawatthours
+2022-10-28,PJM,"PJM Interconnection, LLC",SUN,Solar,Arizona,Arizona,12452,megawatthours
+2022-10-28,SEC,Seminole Electric Cooperative,SUN,Solar,Central,Central,10,megawatthours
+2022-10-28,DUK,Duke Energy Carolinas,SUN,Solar,Pacific,Pacific,4755,megawatthours
+2022-10-28,NE,New England,SUN,Solar,Arizona,Arizona,2786,megawatthours
+2022-10-28,TEN,Tennessee,SUN,Solar,Arizona,Arizona,3676,megawatthours
+2022-10-29,BANC,Balancing Authority of Northern California,SUN,Solar,Eastern,Eastern,1177,megawatthours
+2022-10-29,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Arizona,Arizona,7445,megawatthours
+2022-10-28,NW,Northwest,SUN,Solar,Arizona,Arizona,38958,megawatthours
+2022-10-28,TEX,Texas,SUN,Solar,Mountain,Mountain,31218,megawatthours
+2022-10-29,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Mountain,Mountain,41,megawatthours
+2022-10-28,CENT,Central,SUN,Solar,Pacific,Pacific,1296,megawatthours
+2022-10-29,TVA,Tennessee Valley Authority,SUN,Solar,Eastern,Eastern,2800,megawatthours
+2022-10-28,FPL,Florida Power & Light Co.,SUN,Solar,Mountain,Mountain,19028,megawatthours
+2022-10-29,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-29,BANC,Balancing Authority of Northern California,SUN,Solar,Central,Central,1177,megawatthours
+2022-10-29,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Mountain,Mountain,952,megawatthours
+2022-10-28,JEA,JEA,SUN,Solar,Central,Central,38,megawatthours
+2022-10-28,NYIS,New York Independent System Operator,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-29,AVA,Avista Corporation,SUN,Solar,Eastern,Eastern,89,megawatthours
+2022-10-29,NW,Northwest,SUN,Solar,Mountain,Mountain,36662,megawatthours
+2022-10-29,IPCO,Idaho Power Company,SUN,Solar,Central,Central,1333,megawatthours
+2022-10-28,FLA,Florida,SUN,Solar,Arizona,Arizona,27017,megawatthours
+2022-10-29,SE,Southeast,SUN,Solar,Eastern,Eastern,3465,megawatthours
+2022-10-28,NW,Northwest,SUN,Solar,Pacific,Pacific,38958,megawatthours
+2022-10-24,TEX,Texas,SUN,Solar,Central,Central,43676,megawatthours
+2022-10-23,FLA,Florida,SUN,Solar,Central,Central,49188,megawatthours
+2022-10-24,PNM,Public Service Company of New Mexico,SUN,Solar,Arizona,Arizona,2517,megawatthours
+2022-10-24,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Central,Central,1063,megawatthours
+2022-10-24,SE,Southeast,SUN,Solar,Eastern,Eastern,9552,megawatthours
+2022-10-24,PSCO,Public Service Company of Colorado,SUN,Solar,Mountain,Mountain,3846,megawatthours
+2022-10-24,IPCO,Idaho Power Company,SUN,Solar,Mountain,Mountain,808,megawatthours
+2022-10-23,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Pacific,Pacific,71,megawatthours
+2022-10-23,NY,New York,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-24,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Arizona,Arizona,32,megawatthours
+2022-10-24,CAL,California,SUN,Solar,Mountain,Mountain,107282,megawatthours
+2022-10-23,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Mountain,Mountain,6638,megawatthours
+2022-10-24,BANC,Balancing Authority of Northern California,SUN,Solar,Pacific,Pacific,1381,megawatthours
+2022-10-24,US48,United States Lower 48,SUN,Solar,Eastern,Eastern,301058,megawatthours
+2022-10-25,CAR,Carolinas,SUN,Solar,Arizona,Arizona,24137,megawatthours
+2022-10-26,SE,Southeast,SUN,Solar,Central,Central,9188,megawatthours
+2022-10-26,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Arizona,Arizona,7233,megawatthours
+2022-10-25,US48,United States Lower 48,SUN,Solar,Arizona,Arizona,323557,megawatthours
+2022-10-26,TEPC,Tucson Electric Power,SUN,Solar,Pacific,Pacific,2978,megawatthours
+2022-10-25,FLA,Florida,SUN,Solar,Arizona,Arizona,32543,megawatthours
+2022-10-26,US48,United States Lower 48,SUN,Solar,Eastern,Eastern,303054,megawatthours
+2022-10-25,JEA,JEA,SUN,Solar,Central,Central,233,megawatthours
+2022-10-26,AZPS,Arizona Public Service Company,SUN,Solar,Pacific,Pacific,4701,megawatthours
+2022-10-25,MIDW,Midwest,SUN,Solar,Pacific,Pacific,5804,megawatthours
+2022-10-26,NYIS,New York Independent System Operator,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-26,SW,Southwest,SUN,Solar,Arizona,Arizona,16762,megawatthours
+2022-10-26,PNM,Public Service Company of New Mexico,SUN,Solar,Central,Central,3461,megawatthours
+2022-10-25,JEA,JEA,SUN,Solar,Arizona,Arizona,233,megawatthours
+2022-10-26,IID,Imperial Irrigation District,SUN,Solar,Central,Central,3794,megawatthours
+2022-10-29,FLA,Florida,SUN,Solar,Eastern,Eastern,19531,megawatthours
+2022-10-28,SC,South Carolina Public Service Authority,SUN,Solar,Arizona,Arizona,417,megawatthours
+2022-10-28,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,14800,megawatthours
+2022-10-28,TEN,Tennessee,SUN,Solar,Mountain,Mountain,3673,megawatthours
+2022-10-29,SC,South Carolina Public Service Authority,SUN,Solar,Eastern,Eastern,96,megawatthours
+2022-10-28,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Pacific,Pacific,4965,megawatthours
+2022-10-29,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Eastern,Eastern,60,megawatthours
+2022-10-29,NEVP,Nevada Power Company,SUN,Solar,Arizona,Arizona,14919,megawatthours
+2022-10-29,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,12424,megawatthours
+2022-10-29,DUK,Duke Energy Carolinas,SUN,Solar,Eastern,Eastern,2655,megawatthours
+2022-10-29,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Eastern,Eastern,2035,megawatthours
+2022-10-29,JEA,JEA,SUN,Solar,Eastern,Eastern,22,megawatthours
+2022-10-28,MIDW,Midwest,SUN,Solar,Arizona,Arizona,14863,megawatthours
+2022-10-28,SEC,Seminole Electric Cooperative,SUN,Solar,Arizona,Arizona,10,megawatthours
+2022-10-29,SWPP,Southwest Power Pool,SUN,Solar,Central,Central,1466,megawatthours
+2022-10-29,AVA,Avista Corporation,SUN,Solar,Central,Central,89,megawatthours
+2022-10-28,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,14799,megawatthours
+2022-10-29,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Eastern,Eastern,3465,megawatthours
+2022-10-29,CPLW,Duke Energy Progress West,SUN,Solar,Eastern,Eastern,106,megawatthours
+2022-10-29,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Pacific,Pacific,952,megawatthours
+2022-10-29,PACW,PacifiCorp West,SUN,Solar,Central,Central,1642,megawatthours
+2022-10-23,US48,United States Lower 48,SUN,Solar,Pacific,Pacific,286734,megawatthours
+2022-10-24,SWPP,Southwest Power Pool,SUN,Solar,Eastern,Eastern,728,megawatthours
+2022-10-24,AVA,Avista Corporation,SUN,Solar,Arizona,Arizona,41,megawatthours
+2022-10-23,TEX,Texas,SUN,Solar,Arizona,Arizona,33951,megawatthours
+2022-10-23,US48,United States Lower 48,SUN,Solar,Arizona,Arizona,286734,megawatthours
+2022-10-24,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Eastern,Eastern,1063,megawatthours
+2022-10-24,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Arizona,Arizona,956,megawatthours
+2022-10-24,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Pacific,Pacific,956,megawatthours
+2022-10-23,CAR,Carolinas,SUN,Solar,Pacific,Pacific,27807,megawatthours
+2022-10-23,SEC,Seminole Electric Cooperative,SUN,Solar,Arizona,Arizona,5,megawatthours
+2022-10-24,PACE,PacifiCorp East,SUN,Solar,Central,Central,11877,megawatthours
+2022-10-24,ISNE,ISO New England,SUN,Solar,Eastern,Eastern,380,megawatthours
+2022-10-25,NW,Northwest,SUN,Solar,Arizona,Arizona,33701,megawatthours
+2022-10-25,SE,Southeast,SUN,Solar,Arizona,Arizona,7937,megawatthours
+2022-10-26,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Central,Central,1556,megawatthours
+2022-10-25,MIDW,Midwest,SUN,Solar,Mountain,Mountain,5804,megawatthours
+2022-10-25,NY,New York,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-26,BPAT,Bonneville Power Administration,SUN,Solar,Pacific,Pacific,544,megawatthours
+2022-10-25,CENT,Central,SUN,Solar,Arizona,Arizona,1551,megawatthours
+2022-10-25,TEX,Texas,SUN,Solar,Pacific,Pacific,86890,megawatthours
+2022-10-26,AVA,Avista Corporation,SUN,Solar,Eastern,Eastern,97,megawatthours
+2022-10-25,CAR,Carolinas,SUN,Solar,Central,Central,24140,megawatthours
+2022-10-26,SWPP,Southwest Power Pool,SUN,Solar,Eastern,Eastern,1213,megawatthours
+2022-10-29,SEC,Seminole Electric Cooperative,SUN,Solar,Eastern,Eastern,6,megawatthours
+2022-10-29,MIDA,Mid-Atlantic,SUN,Solar,Eastern,Eastern,15568,megawatthours
+2022-10-29,PACE,PacifiCorp East,SUN,Solar,Central,Central,9606,megawatthours
+2022-10-29,AZPS,Arizona Public Service Company,SUN,Solar,Pacific,Pacific,3980,megawatthours
+2022-10-29,NE,New England,SUN,Solar,Eastern,Eastern,3108,megawatthours
+2022-10-28,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,31218,megawatthours
+2022-10-29,CISO,California Independent System Operator,SUN,Solar,Mountain,Mountain,94096,megawatthours
+2022-10-29,PJM,"PJM Interconnection, LLC",SUN,Solar,Eastern,Eastern,15568,megawatthours
+2022-10-28,TAL,City of Tallahassee,SUN,Solar,Mountain,Mountain,258,megawatthours
+2022-10-29,IID,Imperial Irrigation District,SUN,Solar,Mountain,Mountain,3867,megawatthours
+2022-10-28,TEX,Texas,SUN,Solar,Arizona,Arizona,31218,megawatthours
+2022-10-29,PNM,Public Service Company of New Mexico,SUN,Solar,Arizona,Arizona,3369,megawatthours
+2022-10-28,ISNE,ISO New England,SUN,Solar,Pacific,Pacific,2786,megawatthours
+2022-10-28,CPLE,Duke Energy Progress East,SUN,Solar,Pacific,Pacific,7703,megawatthours
+2022-10-29,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Eastern,Eastern,7445,megawatthours
+2022-10-29,CAR,Carolinas,SUN,Solar,Eastern,Eastern,10163,megawatthours
+2022-10-28,FPL,Florida Power & Light Co.,SUN,Solar,Arizona,Arizona,19078,megawatthours
+2022-10-29,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Eastern,Eastern,1075,megawatthours
+2022-10-29,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Central,Central,952,megawatthours
+2022-10-28,CPLW,Duke Energy Progress West,SUN,Solar,Central,Central,0,megawatthours
+2022-10-28,DUK,Duke Energy Carolinas,SUN,Solar,Mountain,Mountain,4755,megawatthours
+2022-10-29,NEVP,Nevada Power Company,SUN,Solar,Central,Central,14948,megawatthours
+2022-10-29,IPCO,Idaho Power Company,SUN,Solar,Eastern,Eastern,1333,megawatthours
+2022-10-28,FLA,Florida,SUN,Solar,Mountain,Mountain,26967,megawatthours
+2022-10-28,TEC,Tampa Electric Company,SUN,Solar,Mountain,Mountain,3762,megawatthours
+2022-10-28,CAR,Carolinas,SUN,Solar,Arizona,Arizona,17840,megawatthours
+2022-10-28,NE,New England,SUN,Solar,Mountain,Mountain,2784,megawatthours
+2022-10-28,US48,United States Lower 48,SUN,Solar,Arizona,Arizona,274298,megawatthours
+2022-10-28,NE,New England,SUN,Solar,Central,Central,2782,megawatthours
+2022-10-29,EPE,El Paso Electric Company,SUN,Solar,Eastern,Eastern,807,megawatthours
+2022-10-29,BPAT,Bonneville Power Administration,SUN,Solar,Eastern,Eastern,828,megawatthours
+2022-10-29,TEPC,Tucson Electric Power,SUN,Solar,Arizona,Arizona,2957,megawatthours
+2022-10-29,TAL,City of Tallahassee,SUN,Solar,Eastern,Eastern,65,megawatthours
+2022-10-24,NEVP,Nevada Power Company,SUN,Solar,Eastern,Eastern,15793,megawatthours
+2022-10-23,NYIS,New York Independent System Operator,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-23,CPLW,Duke Energy Progress West,SUN,Solar,Central,Central,0,megawatthours
+2022-10-24,NEVP,Nevada Power Company,SUN,Solar,Central,Central,15834,megawatthours
+2022-10-24,PNM,Public Service Company of New Mexico,SUN,Solar,Pacific,Pacific,2517,megawatthours
+2022-10-24,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Arizona,Arizona,1063,megawatthours
+2022-10-23,SEC,Seminole Electric Cooperative,SUN,Solar,Mountain,Mountain,5,megawatthours
+2022-10-24,EPE,El Paso Electric Company,SUN,Solar,Arizona,Arizona,651,megawatthours
+2022-10-24,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Eastern,Eastern,5176,megawatthours
+2022-10-24,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,43676,megawatthours
+2022-10-23,SE,Southeast,SUN,Solar,Mountain,Mountain,9908,megawatthours
+2022-10-23,JEA,JEA,SUN,Solar,Mountain,Mountain,225,megawatthours
+2022-10-24,NEVP,Nevada Power Company,SUN,Solar,Pacific,Pacific,15916,megawatthours
+2022-10-23,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Arizona,Arizona,5651,megawatthours
+2022-10-24,IID,Imperial Irrigation District,SUN,Solar,Arizona,Arizona,4078,megawatthours
+2022-10-23,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Pacific,Pacific,9908,megawatthours
+2022-10-23,CENT,Central,SUN,Solar,Pacific,Pacific,487,megawatthours
+2022-10-24,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Pacific,Pacific,1673,megawatthours
+2022-10-24,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Arizona,Arizona,8079,megawatthours
+2022-10-26,TEPC,Tucson Electric Power,SUN,Solar,Central,Central,2978,megawatthours
+2022-10-25,TAL,City of Tallahassee,SUN,Solar,Arizona,Arizona,254,megawatthours
+2022-10-25,FPL,Florida Power & Light Co.,SUN,Solar,Mountain,Mountain,22585,megawatthours
+2022-10-25,US48,United States Lower 48,SUN,Solar,Pacific,Pacific,323557,megawatthours
+2022-10-26,PACW,PacifiCorp West,SUN,Solar,Eastern,Eastern,1629,megawatthours
+2022-10-26,AVA,Avista Corporation,SUN,Solar,Pacific,Pacific,97,megawatthours
+2022-10-26,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,78424,megawatthours
+2022-10-26,TEN,Tennessee,SUN,Solar,Central,Central,2299,megawatthours
+2022-10-26,IPCO,Idaho Power Company,SUN,Solar,Central,Central,1050,megawatthours
+2022-10-25,DUK,Duke Energy Carolinas,SUN,Solar,Mountain,Mountain,5960,megawatthours
+2022-10-28,CPLW,Duke Energy Progress West,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-28,TEX,Texas,SUN,Solar,Pacific,Pacific,31218,megawatthours
+2022-10-28,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Arizona,Arizona,7718,megawatthours
+2022-10-28,TAL,City of Tallahassee,SUN,Solar,Arizona,Arizona,258,megawatthours
+2022-10-28,US48,United States Lower 48,SUN,Solar,Pacific,Pacific,274298,megawatthours
+2022-10-29,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Arizona,Arizona,1591,megawatthours
+2022-10-29,IPCO,Idaho Power Company,SUN,Solar,Arizona,Arizona,1333,megawatthours
+2022-10-28,NE,New England,SUN,Solar,Pacific,Pacific,2786,megawatthours
+2022-10-28,SEC,Seminole Electric Cooperative,SUN,Solar,Pacific,Pacific,10,megawatthours
+2022-10-28,MIDW,Midwest,SUN,Solar,Mountain,Mountain,14864,megawatthours
+2022-10-28,NWMT,NorthWestern Corporation,SUN,Solar,Arizona,Arizona,49,megawatthours
+2022-10-29,US48,United States Lower 48,SUN,Solar,Eastern,Eastern,292314,megawatthours
+2022-10-29,IPCO,Idaho Power Company,SUN,Solar,Pacific,Pacific,1333,megawatthours
+2022-10-28,CPLE,Duke Energy Progress East,SUN,Solar,Mountain,Mountain,7701,megawatthours
+2022-10-29,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Arizona,Arizona,41,megawatthours
+2022-10-29,PACE,PacifiCorp East,SUN,Solar,Mountain,Mountain,9606,megawatthours
+2022-10-29,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Pacific,Pacific,3200,megawatthours
+2022-10-28,NYIS,New York Independent System Operator,SUN,Solar,Central,Central,0,megawatthours
+2022-10-29,AZPS,Arizona Public Service Company,SUN,Solar,Mountain,Mountain,3995,megawatthours
+2022-10-28,FMPP,Florida Municipal Power Pool,SUN,Solar,Mountain,Mountain,616,megawatthours
+2022-10-28,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Arizona,Arizona,4965,megawatthours
+2022-10-28,TAL,City of Tallahassee,SUN,Solar,Central,Central,258,megawatthours
+2022-10-29,CISO,California Independent System Operator,SUN,Solar,Pacific,Pacific,94096,megawatthours
+2022-10-28,FPL,Florida Power & Light Co.,SUN,Solar,Pacific,Pacific,19078,megawatthours
+2022-10-29,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Central,Central,60,megawatthours
+2022-10-29,TEPC,Tucson Electric Power,SUN,Solar,Pacific,Pacific,2957,megawatthours
+2022-10-29,TEN,Tennessee,SUN,Solar,Eastern,Eastern,2800,megawatthours
+2022-10-29,EPE,El Paso Electric Company,SUN,Solar,Arizona,Arizona,807,megawatthours
+2022-10-23,JEA,JEA,SUN,Solar,Central,Central,225,megawatthours
+2022-10-23,MIDA,Mid-Atlantic,SUN,Solar,Pacific,Pacific,9479,megawatthours
+2022-10-24,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Eastern,Eastern,6517,megawatthours
+2022-10-24,CISO,California Independent System Operator,SUN,Solar,Arizona,Arizona,93749,megawatthours
+2022-10-24,SEC,Seminole Electric Cooperative,SUN,Solar,Eastern,Eastern,10,megawatthours
+2022-10-24,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Pacific,Pacific,3430,megawatthours
+2022-10-24,AZPS,Arizona Public Service Company,SUN,Solar,Pacific,Pacific,4789,megawatthours
+2022-10-23,TEX,Texas,SUN,Solar,Pacific,Pacific,33951,megawatthours
+2022-10-24,CPLW,Duke Energy Progress West,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-23,TEC,Tampa Electric Company,SUN,Solar,Arizona,Arizona,4591,megawatthours
+2022-10-25,CPLW,Duke Energy Progress West,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-26,BPAT,Bonneville Power Administration,SUN,Solar,Central,Central,543,megawatthours
+2022-10-25,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Mountain,Mountain,7937,megawatthours
+2022-10-26,PACW,PacifiCorp West,SUN,Solar,Arizona,Arizona,1629,megawatthours
+2022-10-26,CISO,California Independent System Operator,SUN,Solar,Mountain,Mountain,86569,megawatthours
+2022-10-25,NWMT,NorthWestern Corporation,SUN,Solar,Arizona,Arizona,67,megawatthours
+2022-10-26,CPLE,Duke Energy Progress East,SUN,Solar,Eastern,Eastern,7022,megawatthours
+2022-10-26,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Mountain,Mountain,7233,megawatthours
+2022-10-25,TEN,Tennessee,SUN,Solar,Arizona,Arizona,1177,megawatthours
+2022-10-26,PNM,Public Service Company of New Mexico,SUN,Solar,Eastern,Eastern,3461,megawatthours
+2022-10-26,CAL,California,SUN,Solar,Mountain,Mountain,98887,megawatthours
+2022-10-25,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Mountain,Mountain,37,megawatthours
+2022-10-26,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Eastern,Eastern,1556,megawatthours
+2022-10-26,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Mountain,Mountain,48,megawatthours
+2022-10-25,DUK,Duke Energy Carolinas,SUN,Solar,Central,Central,5960,megawatthours
+2022-10-28,CENT,Central,SUN,Solar,Mountain,Mountain,1296,megawatthours
+2022-10-29,PSCO,Public Service Company of Colorado,SUN,Solar,Central,Central,6022,megawatthours
+2022-10-29,PNM,Public Service Company of New Mexico,SUN,Solar,Eastern,Eastern,3370,megawatthours
+2022-10-28,SC,South Carolina Public Service Authority,SUN,Solar,Mountain,Mountain,417,megawatthours
+2022-10-29,IID,Imperial Irrigation District,SUN,Solar,Eastern,Eastern,3867,megawatthours
+2022-10-29,PNM,Public Service Company of New Mexico,SUN,Solar,Pacific,Pacific,3369,megawatthours
+2022-10-29,NW,Northwest,SUN,Solar,Central,Central,36676,megawatthours
+2022-10-28,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Arizona,Arizona,3255,megawatthours
+2022-10-28,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Mountain,Mountain,4965,megawatthours
+2022-10-28,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Pacific,Pacific,7718,megawatthours
+2022-10-28,NYIS,New York Independent System Operator,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-29,AVA,Avista Corporation,SUN,Solar,Arizona,Arizona,89,megawatthours
+2022-10-29,BANC,Balancing Authority of Northern California,SUN,Solar,Arizona,Arizona,1177,megawatthours
+2022-10-28,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Pacific,Pacific,3255,megawatthours
+2022-10-29,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Mountain,Mountain,1146,megawatthours
+2022-10-23,MIDW,Midwest,SUN,Solar,Pacific,Pacific,13083,megawatthours
+2022-10-24,NE,New England,SUN,Solar,Eastern,Eastern,380,megawatthours
+2022-10-23,FMPP,Florida Municipal Power Pool,SUN,Solar,Central,Central,1329,megawatthours
+2022-10-24,CENT,Central,SUN,Solar,Eastern,Eastern,728,megawatthours
+2022-10-24,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Central,Central,8079,megawatthours
+2022-10-23,SWPP,Southwest Power Pool,SUN,Solar,Pacific,Pacific,487,megawatthours
+2022-10-24,BPAT,Bonneville Power Administration,SUN,Solar,Central,Central,274,megawatthours
+2022-10-23,FMPP,Florida Municipal Power Pool,SUN,Solar,Arizona,Arizona,1329,megawatthours
+2022-10-24,AVA,Avista Corporation,SUN,Solar,Eastern,Eastern,41,megawatthours
+2022-10-23,FPL,Florida Power & Light Co.,SUN,Solar,Arizona,Arizona,36964,megawatthours
+2022-10-24,TEC,Tampa Electric Company,SUN,Solar,Eastern,Eastern,3823,megawatthours
+2022-10-23,ISNE,ISO New England,SUN,Solar,Central,Central,1093,megawatthours
+2022-10-26,AVA,Avista Corporation,SUN,Solar,Arizona,Arizona,97,megawatthours
+2022-10-26,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Pacific,Pacific,1046,megawatthours
+2022-10-25,TVA,Tennessee Valley Authority,SUN,Solar,Mountain,Mountain,1179,megawatthours
+2022-10-25,TAL,City of Tallahassee,SUN,Solar,Central,Central,254,megawatthours
+2022-10-25,FLA,Florida,SUN,Solar,Central,Central,32693,megawatthours
+2022-10-26,NW,Northwest,SUN,Solar,Mountain,Mountain,32416,megawatthours
+2022-10-26,SE,Southeast,SUN,Solar,Eastern,Eastern,9186,megawatthours
+2022-10-25,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Pacific,Pacific,37,megawatthours
+2022-10-26,TVA,Tennessee Valley Authority,SUN,Solar,Central,Central,2299,megawatthours
+2022-10-25,SWPP,Southwest Power Pool,SUN,Solar,Mountain,Mountain,1551,megawatthours
+2022-10-26,PNM,Public Service Company of New Mexico,SUN,Solar,Arizona,Arizona,3462,megawatthours
+2022-10-26,EPE,El Paso Electric Company,SUN,Solar,Arizona,Arizona,815,megawatthours
+2022-10-26,PACE,PacifiCorp East,SUN,Solar,Eastern,Eastern,7949,megawatthours
+2022-10-26,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Eastern,Eastern,4190,megawatthours
+2022-10-25,PJM,"PJM Interconnection, LLC",SUN,Solar,Central,Central,7013,megawatthours
+2022-10-26,BPAT,Bonneville Power Administration,SUN,Solar,Eastern,Eastern,544,megawatthours
+2022-10-26,NW,Northwest,SUN,Solar,Central,Central,32419,megawatthours
+2022-10-26,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Arizona,Arizona,48,megawatthours
+2022-10-26,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Eastern,Eastern,3250,megawatthours
+2022-10-25,NWMT,NorthWestern Corporation,SUN,Solar,Pacific,Pacific,67,megawatthours
+2022-10-28,SWPP,Southwest Power Pool,SUN,Solar,Mountain,Mountain,1296,megawatthours
+2022-10-28,PSCO,Public Service Company of Colorado,SUN,Solar,Pacific,Pacific,6114,megawatthours
+2022-10-29,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Eastern,Eastern,3200,megawatthours
+2022-10-28,PACE,PacifiCorp East,SUN,Solar,Pacific,Pacific,12049,megawatthours
+2022-10-29,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,64524,megawatthours
+2022-10-28,PSCO,Public Service Company of Colorado,SUN,Solar,Arizona,Arizona,6114,megawatthours
+2022-10-29,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Arizona,Arizona,3200,megawatthours
+2022-10-29,NY,New York,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-28,FMPP,Florida Municipal Power Pool,SUN,Solar,Pacific,Pacific,616,megawatthours
+2022-10-29,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Central,Central,3466,megawatthours
+2022-10-28,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Mountain,Mountain,64,megawatthours
+2022-10-29,PSCO,Public Service Company of Colorado,SUN,Solar,Mountain,Mountain,6019,megawatthours
+2022-10-28,SC,South Carolina Public Service Authority,SUN,Solar,Central,Central,417,megawatthours
+2022-10-29,CAL,California,SUN,Solar,Eastern,Eastern,106585,megawatthours
+2022-10-29,TEPC,Tucson Electric Power,SUN,Solar,Mountain,Mountain,2957,megawatthours
+2022-10-28,SWPP,Southwest Power Pool,SUN,Solar,Arizona,Arizona,1296,megawatthours
+2022-10-28,MIDW,Midwest,SUN,Solar,Central,Central,14864,megawatthours
+2022-10-28,CAR,Carolinas,SUN,Solar,Pacific,Pacific,17840,megawatthours
+2022-10-28,ISNE,ISO New England,SUN,Solar,Arizona,Arizona,2786,megawatthours
+2022-10-29,PNM,Public Service Company of New Mexico,SUN,Solar,Mountain,Mountain,3369,megawatthours
+2022-10-28,TVA,Tennessee Valley Authority,SUN,Solar,Pacific,Pacific,3676,megawatthours
+2022-10-28,TEC,Tampa Electric Company,SUN,Solar,Arizona,Arizona,3762,megawatthours
+2022-10-24,BANC,Balancing Authority of Northern California,SUN,Solar,Mountain,Mountain,1381,megawatthours
+2022-10-23,MIDA,Mid-Atlantic,SUN,Solar,Mountain,Mountain,9479,megawatthours
+2022-10-23,TEX,Texas,SUN,Solar,Eastern,Eastern,33951,megawatthours
+2022-10-23,SWPP,Southwest Power Pool,SUN,Solar,Arizona,Arizona,487,megawatthours
+2022-10-24,IPCO,Idaho Power Company,SUN,Solar,Arizona,Arizona,808,megawatthours
+2022-10-23,PACE,PacifiCorp East,SUN,Solar,Arizona,Arizona,5095,megawatthours
+2022-10-23,CAR,Carolinas,SUN,Solar,Mountain,Mountain,27807,megawatthours
+2022-10-24,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Arizona,Arizona,1673,megawatthours
+2022-10-23,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,13012,megawatthours
+2022-10-24,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-23,PJM,"PJM Interconnection, LLC",SUN,Solar,Arizona,Arizona,9479,megawatthours
+2022-10-24,BPAT,Bonneville Power Administration,SUN,Solar,Pacific,Pacific,275,megawatthours
+2022-10-24,MIDW,Midwest,SUN,Solar,Eastern,Eastern,8454,megawatthours
+2022-10-23,FPL,Florida Power & Light Co.,SUN,Solar,Mountain,Mountain,36964,megawatthours
+2022-10-23,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,13012,megawatthours
+2022-10-23,MIDW,Midwest,SUN,Solar,Central,Central,13084,megawatthours
+2022-10-24,TAL,City of Tallahassee,SUN,Solar,Eastern,Eastern,371,megawatthours
+2022-10-24,IID,Imperial Irrigation District,SUN,Solar,Mountain,Mountain,4078,megawatthours
+2022-10-26,NWMT,NorthWestern Corporation,SUN,Solar,Eastern,Eastern,62,megawatthours
+2022-10-25,FLA,Florida,SUN,Solar,Pacific,Pacific,32543,megawatthours
+2022-10-25,NY,New York,SUN,Solar,Central,Central,0,megawatthours
+2022-10-25,PJM,"PJM Interconnection, LLC",SUN,Solar,Arizona,Arizona,7015,megawatthours
+2022-10-26,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-26,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-25,FPL,Florida Power & Light Co.,SUN,Solar,Arizona,Arizona,22510,megawatthours
+2022-10-26,AZPS,Arizona Public Service Company,SUN,Solar,Eastern,Eastern,4701,megawatthours
+2022-10-25,TEN,Tennessee,SUN,Solar,Mountain,Mountain,1179,megawatthours
+2022-10-25,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,86890,megawatthours
+2022-10-28,DUK,Duke Energy Carolinas,SUN,Solar,Central,Central,4755,megawatthours
+2022-10-29,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Central,Central,1591,megawatthours
+2022-10-28,MIDW,Midwest,SUN,Solar,Pacific,Pacific,14863,megawatthours
+2022-10-28,DUK,Duke Energy Carolinas,SUN,Solar,Arizona,Arizona,4755,megawatthours
+2022-10-28,CENT,Central,SUN,Solar,Arizona,Arizona,1296,megawatthours
+2022-10-29,TEX,Texas,SUN,Solar,Central,Central,64524,megawatthours
+2022-10-28,NY,New York,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-29,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-29,BANC,Balancing Authority of Northern California,SUN,Solar,Pacific,Pacific,1177,megawatthours
+2022-10-28,US48,United States Lower 48,SUN,Solar,Central,Central,274250,megawatthours
+2022-10-28,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Mountain,Mountain,7717,megawatthours
+2022-10-25,TEX,Texas,SUN,Solar,Mountain,Mountain,86890,megawatthours
+2022-10-26,AVA,Avista Corporation,SUN,Solar,Central,Central,97,megawatthours
+2022-10-25,US48,United States Lower 48,SUN,Solar,Mountain,Mountain,323621,megawatthours
+2022-10-26,NW,Northwest,SUN,Solar,Eastern,Eastern,32422,megawatthours
+2022-10-25,CPLE,Duke Energy Progress East,SUN,Solar,Arizona,Arizona,11702,megawatthours
+2022-10-25,SE,Southeast,SUN,Solar,Pacific,Pacific,7937,megawatthours
+2022-10-25,MIDA,Mid-Atlantic,SUN,Solar,Pacific,Pacific,7015,megawatthours
+2022-10-25,TEN,Tennessee,SUN,Solar,Pacific,Pacific,1177,megawatthours
+2022-10-26,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Eastern,Eastern,7233,megawatthours
+2022-10-26,TEX,Texas,SUN,Solar,Eastern,Eastern,78424,megawatthours
+2022-10-25,FLA,Florida,SUN,Solar,Mountain,Mountain,32618,megawatthours
+2022-10-26,EPE,El Paso Electric Company,SUN,Solar,Pacific,Pacific,815,megawatthours
+2022-10-25,FPL,Florida Power & Light Co.,SUN,Solar,Pacific,Pacific,22510,megawatthours
+2022-10-25,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Arizona,Arizona,7937,megawatthours
+2022-10-25,SEC,Seminole Electric Cooperative,SUN,Solar,Mountain,Mountain,11,megawatthours
+2022-10-25,TAL,City of Tallahassee,SUN,Solar,Pacific,Pacific,254,megawatthours
+2022-10-25,NYIS,New York Independent System Operator,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-26,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Central,Central,48,megawatthours
+2022-10-24,PNM,Public Service Company of New Mexico,SUN,Solar,Eastern,Eastern,2516,megawatthours
+2022-10-23,CPLE,Duke Energy Progress East,SUN,Solar,Pacific,Pacific,14069,megawatthours
+2022-10-24,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-23,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Central,Central,5651,megawatthours
+2022-10-24,NWMT,NorthWestern Corporation,SUN,Solar,Central,Central,70,megawatthours
+2022-10-24,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Central,Central,956,megawatthours
+2022-10-23,NE,New England,SUN,Solar,Mountain,Mountain,1093,megawatthours
+2022-10-24,AZPS,Arizona Public Service Company,SUN,Solar,Arizona,Arizona,4789,megawatthours
+2022-10-24,EPE,El Paso Electric Company,SUN,Solar,Mountain,Mountain,651,megawatthours
+2022-10-23,MIDA,Mid-Atlantic,SUN,Solar,Central,Central,9479,megawatthours
+2022-10-25,CENT,Central,SUN,Solar,Mountain,Mountain,1551,megawatthours
+2022-10-25,PSCO,Public Service Company of Colorado,SUN,Solar,Arizona,Arizona,5460,megawatthours
+2022-10-26,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Pacific,Pacific,7233,megawatthours
+2022-10-26,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Pacific,Pacific,1016,megawatthours
+2022-10-25,NYIS,New York Independent System Operator,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-25,TVA,Tennessee Valley Authority,SUN,Solar,Pacific,Pacific,1177,megawatthours
+2022-10-26,NEVP,Nevada Power Company,SUN,Solar,Eastern,Eastern,15025,megawatthours
+2022-10-25,TEX,Texas,SUN,Solar,Arizona,Arizona,86890,megawatthours
+2022-10-25,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,5767,megawatthours
+2022-10-26,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Central,Central,0,megawatthours
+2022-10-25,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,86890,megawatthours
+2022-10-26,AZPS,Arizona Public Service Company,SUN,Solar,Arizona,Arizona,4701,megawatthours
+2022-10-26,PSCO,Public Service Company of Colorado,SUN,Solar,Mountain,Mountain,3954,megawatthours
+2022-10-29,TEC,Tampa Electric Company,SUN,Solar,Eastern,Eastern,3157,megawatthours
+2022-10-29,TEPC,Tucson Electric Power,SUN,Solar,Eastern,Eastern,2957,megawatthours
+2022-10-29,NYIS,New York Independent System Operator,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-29,AZPS,Arizona Public Service Company,SUN,Solar,Eastern,Eastern,4013,megawatthours
+2022-10-29,NW,Northwest,SUN,Solar,Eastern,Eastern,36682,megawatthours
+2022-10-28,MIDA,Mid-Atlantic,SUN,Solar,Mountain,Mountain,12452,megawatthours
+2022-10-29,NWMT,NorthWestern Corporation,SUN,Solar,Central,Central,70,megawatthours
+2022-10-29,SW,Southwest,SUN,Solar,Arizona,Arizona,15904,megawatthours
+2022-10-29,CAL,California,SUN,Solar,Pacific,Pacific,106585,megawatthours
+2022-10-29,FMPP,Florida Municipal Power Pool,SUN,Solar,Eastern,Eastern,913,megawatthours
+2022-10-29,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Central,Central,0,megawatthours
+2022-10-29,EPE,El Paso Electric Company,SUN,Solar,Central,Central,807,megawatthours
+2022-10-26,IID,Imperial Irrigation District,SUN,Solar,Arizona,Arizona,3794,megawatthours
+2022-10-26,AVA,Avista Corporation,SUN,Solar,Mountain,Mountain,97,megawatthours
+2022-10-26,PSCO,Public Service Company of Colorado,SUN,Solar,Central,Central,3956,megawatthours
+2022-10-26,BANC,Balancing Authority of Northern California,SUN,Solar,Central,Central,1291,megawatthours
+2022-10-26,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Arizona,Arizona,1556,megawatthours
+2022-10-25,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Arizona,Arizona,4905,megawatthours
+2022-10-25,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Mountain,Mountain,4905,megawatthours
+2022-10-25,ISNE,ISO New England,SUN,Solar,Arizona,Arizona,1024,megawatthours
+2022-10-25,SEC,Seminole Electric Cooperative,SUN,Solar,Central,Central,11,megawatthours
+2022-10-26,AZPS,Arizona Public Service Company,SUN,Solar,Mountain,Mountain,4702,megawatthours
+2022-10-26,IID,Imperial Irrigation District,SUN,Solar,Eastern,Eastern,3794,megawatthours
+2022-10-25,MIDW,Midwest,SUN,Solar,Central,Central,5803,megawatthours
+2022-10-25,SC,South Carolina Public Service Authority,SUN,Solar,Central,Central,485,megawatthours
+2022-10-25,CAR,Carolinas,SUN,Solar,Mountain,Mountain,24140,megawatthours
+2022-10-25,FMPP,Florida Municipal Power Pool,SUN,Solar,Mountain,Mountain,807,megawatthours
+2022-10-26,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Eastern,Eastern,15,megawatthours
+2022-10-25,ISNE,ISO New England,SUN,Solar,Central,Central,1024,megawatthours
+2022-10-24,PSCO,Public Service Company of Colorado,SUN,Solar,Eastern,Eastern,3849,megawatthours
+2022-10-24,FPL,Florida Power & Light Co.,SUN,Solar,Eastern,Eastern,22054,megawatthours
+2022-10-23,FPL,Florida Power & Light Co.,SUN,Solar,Pacific,Pacific,36964,megawatthours
+2022-10-24,TEX,Texas,SUN,Solar,Eastern,Eastern,43676,megawatthours
+2022-10-24,BPAT,Bonneville Power Administration,SUN,Solar,Arizona,Arizona,275,megawatthours
+2022-10-23,NW,Northwest,SUN,Solar,Pacific,Pacific,28984,megawatthours
+2022-10-24,CAR,Carolinas,SUN,Solar,Eastern,Eastern,28336,megawatthours
+2022-10-23,NY,New York,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-24,BANC,Balancing Authority of Northern California,SUN,Solar,Arizona,Arizona,1381,megawatthours
+2022-10-24,JEA,JEA,SUN,Solar,Eastern,Eastern,236,megawatthours
+2022-10-24,CAL,California,SUN,Solar,Pacific,Pacific,107287,megawatthours
+2022-10-23,PJM,"PJM Interconnection, LLC",SUN,Solar,Central,Central,9479,megawatthours
+2022-10-23,NE,New England,SUN,Solar,Pacific,Pacific,1093,megawatthours
+2022-10-24,TVA,Tennessee Valley Authority,SUN,Solar,Central,Central,3628,megawatthours
+2022-10-23,SWPP,Southwest Power Pool,SUN,Solar,Mountain,Mountain,487,megawatthours
+2022-10-23,DUK,Duke Energy Carolinas,SUN,Solar,Central,Central,6565,megawatthours
+2022-10-23,DUK,Duke Energy Carolinas,SUN,Solar,Arizona,Arizona,6561,megawatthours
+2022-10-23,MIDW,Midwest,SUN,Solar,Arizona,Arizona,13083,megawatthours
+2022-10-24,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Eastern,Eastern,66,megawatthours
+2022-10-23,TEC,Tampa Electric Company,SUN,Solar,Pacific,Pacific,4591,megawatthours
+2022-10-24,SWPP,Southwest Power Pool,SUN,Solar,Central,Central,728,megawatthours
+2022-10-26,DUK,Duke Energy Carolinas,SUN,Solar,Eastern,Eastern,2550,megawatthours
+2022-10-25,CPLW,Duke Energy Progress West,SUN,Solar,Central,Central,0,megawatthours
+2022-10-25,TEC,Tampa Electric Company,SUN,Solar,Arizona,Arizona,3823,megawatthours
+2022-10-26,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,78424,megawatthours
+2022-10-25,SEC,Seminole Electric Cooperative,SUN,Solar,Arizona,Arizona,11,megawatthours
+2022-10-26,FPL,Florida Power & Light Co.,SUN,Solar,Eastern,Eastern,22649,megawatthours
+2022-10-26,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Mountain,Mountain,1016,megawatthours
+2022-10-25,SE,Southeast,SUN,Solar,Mountain,Mountain,7937,megawatthours
+2022-10-26,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Central,Central,9188,megawatthours
+2022-10-25,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Pacific,Pacific,5992,megawatthours
+2022-10-26,FLA,Florida,SUN,Solar,Eastern,Eastern,28577,megawatthours
+2022-10-29,CPLE,Duke Energy Progress East,SUN,Solar,Eastern,Eastern,6231,megawatthours
+2022-10-29,IID,Imperial Irrigation District,SUN,Solar,Pacific,Pacific,3867,megawatthours
+2022-10-28,CPLE,Duke Energy Progress East,SUN,Solar,Central,Central,7700,megawatthours
+2022-10-29,CAL,California,SUN,Solar,Arizona,Arizona,106585,megawatthours
+2022-10-29,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Pacific,Pacific,1591,megawatthours
+2022-10-29,IPCO,Idaho Power Company,SUN,Solar,Mountain,Mountain,1333,megawatthours
+2022-10-29,BPAT,Bonneville Power Administration,SUN,Solar,Mountain,Mountain,827,megawatthours
+2022-10-29,PACW,PacifiCorp West,SUN,Solar,Arizona,Arizona,1642,megawatthours
+2022-10-29,TEN,Tennessee,SUN,Solar,Central,Central,2797,megawatthours
+2022-10-28,ISNE,ISO New England,SUN,Solar,Mountain,Mountain,2784,megawatthours
+2022-10-29,AVA,Avista Corporation,SUN,Solar,Pacific,Pacific,89,megawatthours
+2022-10-28,CAR,Carolinas,SUN,Solar,Mountain,Mountain,17838,megawatthours
+2022-10-28,TEC,Tampa Electric Company,SUN,Solar,Central,Central,3762,megawatthours
+2022-10-29,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Pacific,Pacific,1146,megawatthours
+2022-10-28,FMPP,Florida Municipal Power Pool,SUN,Solar,Arizona,Arizona,616,megawatthours
+2022-10-28,SC,South Carolina Public Service Authority,SUN,Solar,Pacific,Pacific,417,megawatthours
+2022-10-28,PJM,"PJM Interconnection, LLC",SUN,Solar,Mountain,Mountain,12452,megawatthours
+2022-10-25,CPLE,Duke Energy Progress East,SUN,Solar,Pacific,Pacific,11702,megawatthours
+2022-10-25,SWPP,Southwest Power Pool,SUN,Solar,Pacific,Pacific,1551,megawatthours
+2022-10-25,TEC,Tampa Electric Company,SUN,Solar,Central,Central,3823,megawatthours
+2022-10-25,CPLE,Duke Energy Progress East,SUN,Solar,Mountain,Mountain,11703,megawatthours
+2022-10-26,BPAT,Bonneville Power Administration,SUN,Solar,Mountain,Mountain,545,megawatthours
+2022-10-26,NEVP,Nevada Power Company,SUN,Solar,Central,Central,15023,megawatthours
+2022-10-26,SW,Southwest,SUN,Solar,Mountain,Mountain,16762,megawatthours
+2022-10-25,FMPP,Florida Municipal Power Pool,SUN,Solar,Central,Central,807,megawatthours
+2022-10-25,MIDA,Mid-Atlantic,SUN,Solar,Arizona,Arizona,7015,megawatthours
+2022-10-25,ISNE,ISO New England,SUN,Solar,Pacific,Pacific,1024,megawatthours
+2022-10-26,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-26,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Mountain,Mountain,3250,megawatthours
+2022-10-26,AZPS,Arizona Public Service Company,SUN,Solar,Central,Central,4706,megawatthours
+2022-10-26,IPCO,Idaho Power Company,SUN,Solar,Mountain,Mountain,1050,megawatthours
+2022-10-26,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Arizona,Arizona,1016,megawatthours
+2022-10-26,PACE,PacifiCorp East,SUN,Solar,Central,Central,7949,megawatthours
+2022-10-25,NE,New England,SUN,Solar,Mountain,Mountain,1024,megawatthours
+2022-10-25,MIDW,Midwest,SUN,Solar,Arizona,Arizona,5804,megawatthours
+2022-10-23,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Mountain,Mountain,71,megawatthours
+2022-10-24,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Mountain,Mountain,956,megawatthours
+2022-10-24,SW,Southwest,SUN,Solar,Arizona,Arizona,16199,megawatthours
+2022-10-24,NEVP,Nevada Power Company,SUN,Solar,Mountain,Mountain,15875,megawatthours
+2022-10-24,TEPC,Tucson Electric Power,SUN,Solar,Arizona,Arizona,3139,megawatthours
+2022-10-24,CISO,California Independent System Operator,SUN,Solar,Pacific,Pacific,93749,megawatthours
+2022-10-24,CAL,California,SUN,Solar,Eastern,Eastern,107272,megawatthours
+2022-10-24,TEPC,Tucson Electric Power,SUN,Solar,Central,Central,3139,megawatthours
+2022-10-24,EPE,El Paso Electric Company,SUN,Solar,Eastern,Eastern,651,megawatthours
+2022-10-24,BPAT,Bonneville Power Administration,SUN,Solar,Eastern,Eastern,273,megawatthours
+2022-10-23,TEX,Texas,SUN,Solar,Central,Central,33951,megawatthours
+2022-10-23,CENT,Central,SUN,Solar,Arizona,Arizona,487,megawatthours
+2022-10-23,SC,South Carolina Public Service Authority,SUN,Solar,Central,Central,539,megawatthours
+2022-10-24,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Arizona,Arizona,3430,megawatthours
+2022-10-23,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,33951,megawatthours
+2022-10-24,NWMT,NorthWestern Corporation,SUN,Solar,Eastern,Eastern,70,megawatthours
+2022-10-23,PJM,"PJM Interconnection, LLC",SUN,Solar,Pacific,Pacific,9479,megawatthours
+2022-10-23,TAL,City of Tallahassee,SUN,Solar,Arizona,Arizona,424,megawatthours
+2022-10-23,JEA,JEA,SUN,Solar,Eastern,Eastern,225,megawatthours
+2022-10-26,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,14251,megawatthours
+2022-10-25,MIDA,Mid-Atlantic,SUN,Solar,Mountain,Mountain,7014,megawatthours
+2022-10-26,TEN,Tennessee,SUN,Solar,Eastern,Eastern,2301,megawatthours
+2022-10-25,CPLW,Duke Energy Progress West,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-26,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Arizona,Arizona,3250,megawatthours
+2022-10-25,PSCO,Public Service Company of Colorado,SUN,Solar,Pacific,Pacific,5460,megawatthours
+2022-10-26,TEPC,Tucson Electric Power,SUN,Solar,Eastern,Eastern,2978,megawatthours
+2022-10-25,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Arizona,Arizona,37,megawatthours
+2022-10-25,TEC,Tampa Electric Company,SUN,Solar,Pacific,Pacific,3823,megawatthours
+2022-10-26,CAL,California,SUN,Solar,Pacific,Pacific,98887,megawatthours
+2022-10-26,NWMT,NorthWestern Corporation,SUN,Solar,Mountain,Mountain,62,megawatthours
+2022-10-26,CISO,California Independent System Operator,SUN,Solar,Eastern,Eastern,86569,megawatthours
+2022-10-26,TEPC,Tucson Electric Power,SUN,Solar,Mountain,Mountain,2978,megawatthours
+2022-10-28,SE,Southeast,SUN,Solar,Pacific,Pacific,7718,megawatthours
+2022-10-29,TEX,Texas,SUN,Solar,Eastern,Eastern,64524,megawatthours
+2022-10-28,CPLW,Duke Energy Progress West,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-29,BPAT,Bonneville Power Administration,SUN,Solar,Central,Central,827,megawatthours
+2022-10-29,EPE,El Paso Electric Company,SUN,Solar,Mountain,Mountain,807,megawatthours
+2022-10-29,PSCO,Public Service Company of Colorado,SUN,Solar,Eastern,Eastern,6021,megawatthours
+2022-10-29,PACW,PacifiCorp West,SUN,Solar,Mountain,Mountain,1642,megawatthours
+2022-10-29,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Central,Central,41,megawatthours
+2022-10-29,BANC,Balancing Authority of Northern California,SUN,Solar,Mountain,Mountain,1177,megawatthours
+2022-10-29,CENT,Central,SUN,Solar,Central,Central,1466,megawatthours
+2022-10-28,MIDA,Mid-Atlantic,SUN,Solar,Pacific,Pacific,12452,megawatthours
+2022-10-29,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Eastern,Eastern,1591,megawatthours
+2022-10-29,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Central,Central,3200,megawatthours
+2022-10-29,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Eastern,Eastern,952,megawatthours
+2022-10-26,CPLW,Duke Energy Progress West,SUN,Solar,Eastern,Eastern,105,megawatthours
+2022-10-25,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Arizona,Arizona,5992,megawatthours
+2022-10-26,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Mountain,Mountain,1556,megawatthours
+2022-10-26,JEA,JEA,SUN,Solar,Eastern,Eastern,165,megawatthours
+2022-10-26,PACE,PacifiCorp East,SUN,Solar,Mountain,Mountain,7949,megawatthours
+2022-10-25,SEC,Seminole Electric Cooperative,SUN,Solar,Pacific,Pacific,11,megawatthours
+2022-10-25,TEC,Tampa Electric Company,SUN,Solar,Mountain,Mountain,3823,megawatthours
+2022-10-26,EPE,El Paso Electric Company,SUN,Solar,Eastern,Eastern,815,megawatthours
+2022-10-26,TEX,Texas,SUN,Solar,Central,Central,78424,megawatthours
+2022-10-25,PJM,"PJM Interconnection, LLC",SUN,Solar,Pacific,Pacific,7015,megawatthours
+2022-10-24,NE,New England,SUN,Solar,Pacific,Pacific,380,megawatthours
+2022-10-24,TVA,Tennessee Valley Authority,SUN,Solar,Mountain,Mountain,3631,megawatthours
+2022-10-25,CISO,California Independent System Operator,SUN,Solar,Arizona,Arizona,92307,megawatthours
+2022-10-24,TVA,Tennessee Valley Authority,SUN,Solar,Arizona,Arizona,3631,megawatthours
+2022-10-24,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Arizona,Arizona,5176,megawatthours
+2022-10-25,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Pacific,Pacific,3333,megawatthours
+2022-10-25,NW,Northwest,SUN,Solar,Eastern,Eastern,33743,megawatthours
+2022-10-24,SC,South Carolina Public Service Authority,SUN,Solar,Central,Central,399,megawatthours
+2022-10-24,MIDA,Mid-Atlantic,SUN,Solar,Arizona,Arizona,14191,megawatthours
+2022-10-24,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Mountain,Mountain,6517,megawatthours
+2022-10-24,SE,Southeast,SUN,Solar,Pacific,Pacific,9552,megawatthours
+2022-10-24,TEC,Tampa Electric Company,SUN,Solar,Arizona,Arizona,3823,megawatthours
+2022-10-25,EPE,El Paso Electric Company,SUN,Solar,Central,Central,847,megawatthours
+2022-10-24,CAR,Carolinas,SUN,Solar,Arizona,Arizona,28339,megawatthours
+2022-10-25,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Central,Central,3333,megawatthours
+2022-10-25,SW,Southwest,SUN,Solar,Pacific,Pacific,16527,megawatthours
+2022-10-24,FMPP,Florida Municipal Power Pool,SUN,Solar,Arizona,Arizona,1195,megawatthours
+2022-10-25,TEPC,Tucson Electric Power,SUN,Solar,Eastern,Eastern,2932,megawatthours
+2022-10-24,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Pacific,Pacific,9552,megawatthours
+2022-10-24,NE,New England,SUN,Solar,Central,Central,380,megawatthours
+2022-10-25,IPCO,Idaho Power Company,SUN,Solar,Central,Central,1417,megawatthours
+2022-10-24,SEC,Seminole Electric Cooperative,SUN,Solar,Pacific,Pacific,10,megawatthours
+2022-10-28,SW,Southwest,SUN,Solar,Eastern,Eastern,16410,megawatthours
+2022-10-28,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Central,Central,0,megawatthours
+2022-10-28,MIDW,Midwest,SUN,Solar,Eastern,Eastern,14864,megawatthours
+2022-10-27,ISNE,ISO New England,SUN,Solar,Central,Central,3093,megawatthours
+2022-10-27,CPLW,Duke Energy Progress West,SUN,Solar,Mountain,Mountain,4,megawatthours
+2022-10-28,TVA,Tennessee Valley Authority,SUN,Solar,Central,Central,3676,megawatthours
+2022-10-28,CAL,California,SUN,Solar,Central,Central,100158,megawatthours
+2022-10-28,AVA,Avista Corporation,SUN,Solar,Central,Central,28,megawatthours
+2022-10-27,CAR,Carolinas,SUN,Solar,Central,Central,24604,megawatthours
+2022-10-27,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Pacific,Pacific,5331,megawatthours
+2022-10-28,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Mountain,Mountain,1020,megawatthours
+2022-10-25,AZPS,Arizona Public Service Company,SUN,Solar,Pacific,Pacific,4247,megawatthours
+2022-10-24,PACE,PacifiCorp East,SUN,Solar,Arizona,Arizona,11877,megawatthours
+2022-10-25,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Central,Central,1038,megawatthours
+2022-10-24,DUK,Duke Energy Carolinas,SUN,Solar,Pacific,Pacific,5932,megawatthours
+2022-10-25,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Eastern,Eastern,7772,megawatthours
+2022-10-24,SC,South Carolina Public Service Authority,SUN,Solar,Mountain,Mountain,399,megawatthours
+2022-10-25,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Central,Central,37,megawatthours
+2022-10-25,BANC,Balancing Authority of Northern California,SUN,Solar,Central,Central,1232,megawatthours
+2022-10-25,TEX,Texas,SUN,Solar,Eastern,Eastern,86890,megawatthours
+2022-10-25,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Mountain,Mountain,7772,megawatthours
+2022-10-25,EPE,El Paso Electric Company,SUN,Solar,Eastern,Eastern,847,megawatthours
+2022-10-25,IID,Imperial Irrigation District,SUN,Solar,Central,Central,3940,megawatthours
+2022-10-24,TEC,Tampa Electric Company,SUN,Solar,Pacific,Pacific,3823,megawatthours
+2022-10-24,JEA,JEA,SUN,Solar,Central,Central,236,megawatthours
+2022-10-25,TEPC,Tucson Electric Power,SUN,Solar,Pacific,Pacific,2932,megawatthours
+2022-10-28,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Central,Central,64,megawatthours
+2022-10-28,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Central,Central,1020,megawatthours
+2022-10-27,PACE,PacifiCorp East,SUN,Solar,Pacific,Pacific,10540,megawatthours
+2022-10-28,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Eastern,Eastern,7718,megawatthours
+2022-10-28,NE,New England,SUN,Solar,Eastern,Eastern,2780,megawatthours
+2022-10-27,MIDW,Midwest,SUN,Solar,Arizona,Arizona,14832,megawatthours
+2022-10-27,SEC,Seminole Electric Cooperative,SUN,Solar,Arizona,Arizona,9,megawatthours
+2022-10-27,FLA,Florida,SUN,Solar,Mountain,Mountain,30852,megawatthours
+2022-10-28,PNM,Public Service Company of New Mexico,SUN,Solar,Mountain,Mountain,3432,megawatthours
+2022-10-28,NEVP,Nevada Power Company,SUN,Solar,Arizona,Arizona,15470,megawatthours
+2022-10-27,US48,United States Lower 48,SUN,Solar,Central,Central,315724,megawatthours
+2022-10-24,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Mountain,Mountain,5176,megawatthours
+2022-10-24,SWPP,Southwest Power Pool,SUN,Solar,Mountain,Mountain,728,megawatthours
+2022-10-24,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Mountain,Mountain,9552,megawatthours
+2022-10-24,ISNE,ISO New England,SUN,Solar,Mountain,Mountain,380,megawatthours
+2022-10-24,TAL,City of Tallahassee,SUN,Solar,Central,Central,371,megawatthours
+2022-10-24,TAL,City of Tallahassee,SUN,Solar,Pacific,Pacific,371,megawatthours
+2022-10-25,NW,Northwest,SUN,Solar,Central,Central,33742,megawatthours
+2022-10-25,BANC,Balancing Authority of Northern California,SUN,Solar,Pacific,Pacific,1232,megawatthours
+2022-10-24,CENT,Central,SUN,Solar,Arizona,Arizona,728,megawatthours
+2022-10-27,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Pacific,Pacific,10149,megawatthours
+2022-10-28,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Eastern,Eastern,7229,megawatthours
+2022-10-27,TEC,Tampa Electric Company,SUN,Solar,Central,Central,3116,megawatthours
+2022-10-27,PJM,"PJM Interconnection, LLC",SUN,Solar,Arizona,Arizona,21008,megawatthours
+2022-10-28,AVA,Avista Corporation,SUN,Solar,Eastern,Eastern,28,megawatthours
+2022-10-28,NW,Northwest,SUN,Solar,Eastern,Eastern,38959,megawatthours
+2022-10-27,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,14756,megawatthours
+2022-10-28,SW,Southwest,SUN,Solar,Central,Central,16372,megawatthours
+2022-10-28,AVA,Avista Corporation,SUN,Solar,Mountain,Mountain,28,megawatthours
+2022-10-28,PNM,Public Service Company of New Mexico,SUN,Solar,Pacific,Pacific,3432,megawatthours
+2022-10-28,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Mountain,Mountain,7229,megawatthours
+2022-10-28,IPCO,Idaho Power Company,SUN,Solar,Pacific,Pacific,1208,megawatthours
+2022-10-28,FLA,Florida,SUN,Solar,Eastern,Eastern,26867,megawatthours
+2022-10-28,AVA,Avista Corporation,SUN,Solar,Arizona,Arizona,28,megawatthours
+2022-10-28,SWPP,Southwest Power Pool,SUN,Solar,Central,Central,1296,megawatthours
+2022-10-25,AVA,Avista Corporation,SUN,Solar,Arizona,Arizona,35,megawatthours
+2022-10-25,SE,Southeast,SUN,Solar,Central,Central,7937,megawatthours
+2022-10-24,MIDA,Mid-Atlantic,SUN,Solar,Pacific,Pacific,14191,megawatthours
+2022-10-25,PNM,Public Service Company of New Mexico,SUN,Solar,Eastern,Eastern,3562,megawatthours
+2022-10-24,PACE,PacifiCorp East,SUN,Solar,Pacific,Pacific,11877,megawatthours
+2022-10-24,TEX,Texas,SUN,Solar,Pacific,Pacific,43676,megawatthours
+2022-10-24,CPLW,Duke Energy Progress West,SUN,Solar,Central,Central,0,megawatthours
+2022-10-25,SW,Southwest,SUN,Solar,Central,Central,16464,megawatthours
+2022-10-25,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Mountain,Mountain,27,megawatthours
+2022-10-24,TVA,Tennessee Valley Authority,SUN,Solar,Pacific,Pacific,3631,megawatthours
+2022-10-24,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Pacific,Pacific,5176,megawatthours
+2022-10-25,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,5765,megawatthours
+2022-10-25,CISO,California Independent System Operator,SUN,Solar,Eastern,Eastern,92307,megawatthours
+2022-10-25,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Eastern,Eastern,1607,megawatthours
+2022-10-24,SC,South Carolina Public Service Authority,SUN,Solar,Pacific,Pacific,399,megawatthours
+2022-10-24,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Pacific,Pacific,6517,megawatthours
+2022-10-25,AZPS,Arizona Public Service Company,SUN,Solar,Arizona,Arizona,4247,megawatthours
+2022-10-25,CPLE,Duke Energy Progress East,SUN,Solar,Eastern,Eastern,11702,megawatthours
+2022-10-28,PSCO,Public Service Company of Colorado,SUN,Solar,Mountain,Mountain,6114,megawatthours
+2022-10-28,CPLE,Duke Energy Progress East,SUN,Solar,Eastern,Eastern,7699,megawatthours
+2022-10-28,BANC,Balancing Authority of Northern California,SUN,Solar,Central,Central,973,megawatthours
+2022-10-27,CAR,Carolinas,SUN,Solar,Arizona,Arizona,24604,megawatthours
+2022-10-28,PNM,Public Service Company of New Mexico,SUN,Solar,Central,Central,3431,megawatthours
+2022-10-28,CENT,Central,SUN,Solar,Eastern,Eastern,1296,megawatthours
+2022-10-28,SC,South Carolina Public Service Authority,SUN,Solar,Eastern,Eastern,417,megawatthours
+2022-10-28,TEPC,Tucson Electric Power,SUN,Solar,Central,Central,2975,megawatthours
+2022-10-28,SW,Southwest,SUN,Solar,Arizona,Arizona,16316,megawatthours
+2022-10-28,CISO,California Independent System Operator,SUN,Solar,Mountain,Mountain,88338,megawatthours
+2022-10-25,NEVP,Nevada Power Company,SUN,Solar,Eastern,Eastern,14510,megawatthours
+2022-10-25,MIDW,Midwest,SUN,Solar,Eastern,Eastern,5802,megawatthours
+2022-10-24,NW,Northwest,SUN,Solar,Pacific,Pacific,35756,megawatthours
+2022-10-24,CPLE,Duke Energy Progress East,SUN,Solar,Pacific,Pacific,15491,megawatthours
+2022-10-24,FLA,Florida,SUN,Solar,Arizona,Arizona,33090,megawatthours
+2022-10-24,CPLE,Duke Energy Progress East,SUN,Solar,Central,Central,15489,megawatthours
+2022-10-25,CENT,Central,SUN,Solar,Eastern,Eastern,1551,megawatthours
+2022-10-25,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Mountain,Mountain,3333,megawatthours
+2022-10-24,NYIS,New York Independent System Operator,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-24,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,43676,megawatthours
+2022-10-25,IPCO,Idaho Power Company,SUN,Solar,Eastern,Eastern,1417,megawatthours
+2022-10-25,PSCO,Public Service Company of Colorado,SUN,Solar,Central,Central,5459,megawatthours
+2022-10-25,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Arizona,Arizona,1038,megawatthours
+2022-10-24,MIDA,Mid-Atlantic,SUN,Solar,Central,Central,14219,megawatthours
+2022-10-28,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,14800,megawatthours
+2022-10-28,EPE,El Paso Electric Company,SUN,Solar,Pacific,Pacific,821,megawatthours
+2022-10-28,SW,Southwest,SUN,Solar,Pacific,Pacific,16316,megawatthours
+2022-10-28,BPAT,Bonneville Power Administration,SUN,Solar,Pacific,Pacific,512,megawatthours
+2022-10-27,TVA,Tennessee Valley Authority,SUN,Solar,Arizona,Arizona,4441,megawatthours
+2022-10-27,NE,New England,SUN,Solar,Pacific,Pacific,3093,megawatthours
+2022-10-27,TEX,Texas,SUN,Solar,Mountain,Mountain,49457,megawatthours
+2022-10-27,SE,Southeast,SUN,Solar,Arizona,Arizona,10149,megawatthours
+2022-10-28,PACW,PacifiCorp West,SUN,Solar,Pacific,Pacific,1272,megawatthours
+2022-10-28,TEN,Tennessee,SUN,Solar,Eastern,Eastern,3677,megawatthours
+2022-10-28,US48,United States Lower 48,SUN,Solar,Eastern,Eastern,274237,megawatthours
+2022-10-28,TEX,Texas,SUN,Solar,Eastern,Eastern,31220,megawatthours
+2022-10-27,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,49457,megawatthours
+2022-10-28,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Central,Central,1219,megawatthours
+2022-10-27,DUK,Duke Energy Carolinas,SUN,Solar,Central,Central,5517,megawatthours
+2022-10-27,FPL,Florida Power & Light Co.,SUN,Solar,Pacific,Pacific,21417,megawatthours
+2022-10-27,JEA,JEA,SUN,Solar,Arizona,Arizona,212,megawatthours
+2022-10-28,TEPC,Tucson Electric Power,SUN,Solar,Arizona,Arizona,2975,megawatthours
+2022-10-24,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Mountain,Mountain,66,megawatthours
+2022-10-25,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Pacific,Pacific,27,megawatthours
+2022-10-24,FPL,Florida Power & Light Co.,SUN,Solar,Arizona,Arizona,22279,megawatthours
+2022-10-24,TAL,City of Tallahassee,SUN,Solar,Mountain,Mountain,371,megawatthours
+2022-10-25,PACW,PacifiCorp West,SUN,Solar,Mountain,Mountain,1629,megawatthours
+2022-10-25,SEC,Seminole Electric Cooperative,SUN,Solar,Eastern,Eastern,11,megawatthours
+2022-10-25,NWMT,NorthWestern Corporation,SUN,Solar,Central,Central,67,megawatthours
+2022-10-25,AVA,Avista Corporation,SUN,Solar,Pacific,Pacific,35,megawatthours
+2022-10-24,SWPP,Southwest Power Pool,SUN,Solar,Pacific,Pacific,728,megawatthours
+2022-10-24,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Arizona,Arizona,9552,megawatthours
+2022-10-24,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Arizona,Arizona,6517,megawatthours
+2022-10-25,CAL,California,SUN,Solar,Mountain,Mountain,105251,megawatthours
+2022-10-25,CAL,California,SUN,Solar,Central,Central,105251,megawatthours
+2022-10-25,PACE,PacifiCorp East,SUN,Solar,Mountain,Mountain,7853,megawatthours
+2022-10-25,TEC,Tampa Electric Company,SUN,Solar,Eastern,Eastern,3823,megawatthours
+2022-10-25,TAL,City of Tallahassee,SUN,Solar,Eastern,Eastern,254,megawatthours
+2022-10-27,JEA,JEA,SUN,Solar,Central,Central,212,megawatthours
+2022-10-28,AZPS,Arizona Public Service Company,SUN,Solar,Eastern,Eastern,4311,megawatthours
+2022-10-27,DUK,Duke Energy Carolinas,SUN,Solar,Arizona,Arizona,5519,megawatthours
+2022-10-28,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,31220,megawatthours
+2022-10-28,AZPS,Arizona Public Service Company,SUN,Solar,Mountain,Mountain,4244,megawatthours
+2022-10-28,EPE,El Paso Electric Company,SUN,Solar,Central,Central,821,megawatthours
+2022-10-27,NY,New York,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-28,CISO,California Independent System Operator,SUN,Solar,Pacific,Pacific,88338,megawatthours
+2022-10-27,FMPP,Florida Municipal Power Pool,SUN,Solar,Central,Central,901,megawatthours
+2022-10-27,NW,Northwest,SUN,Solar,Pacific,Pacific,34315,megawatthours
+2022-10-27,CPLW,Duke Energy Progress West,SUN,Solar,Central,Central,4,megawatthours
+2022-10-27,TEX,Texas,SUN,Solar,Pacific,Pacific,49457,megawatthours
+2022-10-25,SW,Southwest,SUN,Solar,Eastern,Eastern,16448,megawatthours
+2022-10-24,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,43676,megawatthours
+2022-10-24,TEN,Tennessee,SUN,Solar,Arizona,Arizona,3631,megawatthours
+2022-10-24,SWPP,Southwest Power Pool,SUN,Solar,Arizona,Arizona,728,megawatthours
+2022-10-24,DUK,Duke Energy Carolinas,SUN,Solar,Central,Central,5927,megawatthours
+2022-10-24,CAR,Carolinas,SUN,Solar,Mountain,Mountain,28338,megawatthours
+2022-10-25,NEVP,Nevada Power Company,SUN,Solar,Mountain,Mountain,14487,megawatthours
+2022-10-25,PNM,Public Service Company of New Mexico,SUN,Solar,Mountain,Mountain,3562,megawatthours
+2022-10-25,PACW,PacifiCorp West,SUN,Solar,Arizona,Arizona,1629,megawatthours
+2022-10-25,SC,South Carolina Public Service Authority,SUN,Solar,Eastern,Eastern,485,megawatthours
+2022-10-25,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Arizona,Arizona,1607,megawatthours
+2022-10-25,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Central,Central,1003,megawatthours
+2022-10-24,MIDW,Midwest,SUN,Solar,Mountain,Mountain,8451,megawatthours
+2022-10-24,CAR,Carolinas,SUN,Solar,Central,Central,28332,megawatthours
+2022-10-27,US48,United States Lower 48,SUN,Solar,Arizona,Arizona,315769,megawatthours
+2022-10-27,NY,New York,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-27,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,14755,megawatthours
+2022-10-27,CAR,Carolinas,SUN,Solar,Pacific,Pacific,24604,megawatthours
+2022-10-28,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Pacific,Pacific,1219,megawatthours
+2022-10-27,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Arizona,Arizona,10149,megawatthours
+2022-10-28,BPAT,Bonneville Power Administration,SUN,Solar,Mountain,Mountain,513,megawatthours
+2022-10-28,PNM,Public Service Company of New Mexico,SUN,Solar,Eastern,Eastern,3431,megawatthours
+2022-10-27,FPL,Florida Power & Light Co.,SUN,Solar,Mountain,Mountain,21417,megawatthours
+2022-10-28,BPAT,Bonneville Power Administration,SUN,Solar,Central,Central,514,megawatthours
+2022-10-27,CPLW,Duke Energy Progress West,SUN,Solar,Arizona,Arizona,4,megawatthours
+2022-10-28,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Mountain,Mountain,17,megawatthours
+2022-10-28,CISO,California Independent System Operator,SUN,Solar,Arizona,Arizona,88338,megawatthours
+2022-10-28,IPCO,Idaho Power Company,SUN,Solar,Arizona,Arizona,1208,megawatthours
+2022-10-27,MIDA,Mid-Atlantic,SUN,Solar,Mountain,Mountain,21008,megawatthours
+2022-10-27,NYIS,New York Independent System Operator,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-28,NEVP,Nevada Power Company,SUN,Solar,Pacific,Pacific,15470,megawatthours
+2022-10-27,NE,New England,SUN,Solar,Central,Central,3093,megawatthours
+2022-10-28,NY,New York,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-28,NW,Northwest,SUN,Solar,Central,Central,38960,megawatthours
+2022-10-28,PJM,"PJM Interconnection, LLC",SUN,Solar,Eastern,Eastern,12452,megawatthours
+2022-10-27,SEC,Seminole Electric Cooperative,SUN,Solar,Pacific,Pacific,9,megawatthours
+2022-10-27,DUK,Duke Energy Carolinas,SUN,Solar,Mountain,Mountain,5518,megawatthours
+2022-10-28,JEA,JEA,SUN,Solar,Eastern,Eastern,38,megawatthours
+2022-10-28,IID,Imperial Irrigation District,SUN,Solar,Pacific,Pacific,3618,megawatthours
+2022-10-28,CISO,California Independent System Operator,SUN,Solar,Central,Central,88338,megawatthours
+2022-10-28,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Eastern,Eastern,3255,megawatthours
+2022-10-27,CENT,Central,SUN,Solar,Mountain,Mountain,710,megawatthours
+2022-10-28,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-27,FLA,Florida,SUN,Solar,Arizona,Arizona,30852,megawatthours
+2022-10-24,CPLW,Duke Energy Progress West,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-24,FLA,Florida,SUN,Solar,Pacific,Pacific,33090,megawatthours
+2022-10-24,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Central,Central,5176,megawatthours
+2022-10-24,NYIS,New York Independent System Operator,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-24,FPL,Florida Power & Light Co.,SUN,Solar,Central,Central,22129,megawatthours
+2022-10-25,PJM,"PJM Interconnection, LLC",SUN,Solar,Eastern,Eastern,7012,megawatthours
+2022-10-24,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Central,Central,6517,megawatthours
+2022-10-25,SW,Southwest,SUN,Solar,Mountain,Mountain,16494,megawatthours
+2022-10-25,MIDA,Mid-Atlantic,SUN,Solar,Eastern,Eastern,7012,megawatthours
+2022-10-25,SW,Southwest,SUN,Solar,Arizona,Arizona,16527,megawatthours
+2022-10-25,PACE,PacifiCorp East,SUN,Solar,Eastern,Eastern,7853,megawatthours
+2022-10-24,SE,Southeast,SUN,Solar,Mountain,Mountain,9552,megawatthours
+2022-10-24,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,43676,megawatthours
+2022-10-25,CISO,California Independent System Operator,SUN,Solar,Central,Central,92307,megawatthours
+2022-10-27,SC,South Carolina Public Service Authority,SUN,Solar,Mountain,Mountain,344,megawatthours
+2022-10-27,PACE,PacifiCorp East,SUN,Solar,Arizona,Arizona,10540,megawatthours
+2022-10-28,NW,Northwest,SUN,Solar,Mountain,Mountain,38959,megawatthours
+2022-10-27,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Pacific,Pacific,76,megawatthours
+2022-10-27,NWMT,NorthWestern Corporation,SUN,Solar,Pacific,Pacific,53,megawatthours
+2022-10-27,PSCO,Public Service Company of Colorado,SUN,Solar,Arizona,Arizona,1059,megawatthours
+2022-10-27,NE,New England,SUN,Solar,Mountain,Mountain,3093,megawatthours
+2022-10-28,BPAT,Bonneville Power Administration,SUN,Solar,Eastern,Eastern,514,megawatthours
+2022-10-27,FLA,Florida,SUN,Solar,Central,Central,30852,megawatthours
+2022-10-27,CPLE,Duke Energy Progress East,SUN,Solar,Pacific,Pacific,13406,megawatthours
+2022-10-28,TEX,Texas,SUN,Solar,Central,Central,31219,megawatthours
+2022-10-27,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Arizona,Arizona,5331,megawatthours
+2022-10-28,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Arizona,Arizona,3275,megawatthours
+2022-10-27,TEC,Tampa Electric Company,SUN,Solar,Arizona,Arizona,3116,megawatthours
+2022-10-28,IID,Imperial Irrigation District,SUN,Solar,Eastern,Eastern,3618,megawatthours
+2022-10-27,NYIS,New York Independent System Operator,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-27,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,49457,megawatthours
+2022-10-28,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Eastern,Eastern,1020,megawatthours
+2022-10-28,AZPS,Arizona Public Service Company,SUN,Solar,Central,Central,4272,megawatthours
+2022-10-28,PSCO,Public Service Company of Colorado,SUN,Solar,Eastern,Eastern,6111,megawatthours
+2022-10-28,PACW,PacifiCorp West,SUN,Solar,Central,Central,1272,megawatthours
+2022-10-28,SE,Southeast,SUN,Solar,Eastern,Eastern,7718,megawatthours
+2022-10-28,PSCO,Public Service Company of Colorado,SUN,Solar,Central,Central,6113,megawatthours
+2022-10-28,PACW,PacifiCorp West,SUN,Solar,Eastern,Eastern,1272,megawatthours
+2022-10-28,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Eastern,Eastern,3275,megawatthours
+2022-10-28,CAL,California,SUN,Solar,Pacific,Pacific,100158,megawatthours
+2022-10-28,NWMT,NorthWestern Corporation,SUN,Solar,Mountain,Mountain,49,megawatthours
+2022-10-28,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Eastern,Eastern,1597,megawatthours
+2022-10-28,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Pacific,Pacific,7229,megawatthours
+2022-10-25,PNM,Public Service Company of New Mexico,SUN,Solar,Central,Central,3562,megawatthours
+2022-10-25,IID,Imperial Irrigation District,SUN,Solar,Mountain,Mountain,3940,megawatthours
+2022-10-24,TEC,Tampa Electric Company,SUN,Solar,Mountain,Mountain,3823,megawatthours
+2022-10-24,PJM,"PJM Interconnection, LLC",SUN,Solar,Mountain,Mountain,14205,megawatthours
+2022-10-25,PNM,Public Service Company of New Mexico,SUN,Solar,Pacific,Pacific,3561,megawatthours
+2022-10-25,NWMT,NorthWestern Corporation,SUN,Solar,Eastern,Eastern,67,megawatthours
+2022-10-25,NEVP,Nevada Power Company,SUN,Solar,Arizona,Arizona,14467,megawatthours
+2022-10-24,DUK,Duke Energy Carolinas,SUN,Solar,Mountain,Mountain,5930,megawatthours
+2022-10-25,TEN,Tennessee,SUN,Solar,Central,Central,1179,megawatthours
+2022-10-24,NY,New York,SUN,Solar,Central,Central,0,megawatthours
+2022-10-25,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Central,Central,27,megawatthours
+2022-10-24,NWMT,NorthWestern Corporation,SUN,Solar,Pacific,Pacific,70,megawatthours
+2022-10-25,BPAT,Bonneville Power Administration,SUN,Solar,Pacific,Pacific,705,megawatthours
+2022-10-25,NWMT,NorthWestern Corporation,SUN,Solar,Mountain,Mountain,67,megawatthours
+2022-10-25,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Central,Central,7937,megawatthours
+2022-10-25,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,5766,megawatthours
+2022-10-25,IID,Imperial Irrigation District,SUN,Solar,Pacific,Pacific,3940,megawatthours
+2022-10-25,PSCO,Public Service Company of Colorado,SUN,Solar,Mountain,Mountain,5460,megawatthours
+2022-10-25,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Eastern,Eastern,3333,megawatthours
+2022-10-25,TVA,Tennessee Valley Authority,SUN,Solar,Central,Central,1179,megawatthours
+2022-10-24,FPL,Florida Power & Light Co.,SUN,Solar,Pacific,Pacific,22279,megawatthours
+2022-10-28,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Arizona,Arizona,1020,megawatthours
+2022-10-27,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Mountain,Mountain,5331,megawatthours
+2022-10-27,PJM,"PJM Interconnection, LLC",SUN,Solar,Central,Central,21009,megawatthours
+2022-10-28,EPE,El Paso Electric Company,SUN,Solar,Eastern,Eastern,821,megawatthours
+2022-10-28,TEPC,Tucson Electric Power,SUN,Solar,Eastern,Eastern,2975,megawatthours
+2022-10-28,NEVP,Nevada Power Company,SUN,Solar,Eastern,Eastern,15472,megawatthours
+2022-10-28,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Arizona,Arizona,7229,megawatthours
+2022-10-28,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-28,EPE,El Paso Electric Company,SUN,Solar,Arizona,Arizona,821,megawatthours
+2022-10-28,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-27,FPL,Florida Power & Light Co.,SUN,Solar,Central,Central,21417,megawatthours
+2022-10-27,CENT,Central,SUN,Solar,Pacific,Pacific,710,megawatthours
+2022-10-27,ISNE,ISO New England,SUN,Solar,Pacific,Pacific,3093,megawatthours
+2022-10-28,CENT,Central,SUN,Solar,Central,Central,1296,megawatthours
+2022-10-28,PACW,PacifiCorp West,SUN,Solar,Arizona,Arizona,1272,megawatthours
+2022-10-28,AZPS,Arizona Public Service Company,SUN,Solar,Pacific,Pacific,4215,megawatthours
+2022-10-27,NWMT,NorthWestern Corporation,SUN,Solar,Arizona,Arizona,53,megawatthours
+2022-10-28,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Eastern,Eastern,4965,megawatthours
+2022-10-27,SWPP,Southwest Power Pool,SUN,Solar,Arizona,Arizona,710,megawatthours
+2022-10-27,CPLE,Duke Energy Progress East,SUN,Solar,Mountain,Mountain,13405,megawatthours
+2022-10-28,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Mountain,Mountain,1219,megawatthours
+2022-10-27,MIDW,Midwest,SUN,Solar,Central,Central,14831,megawatthours
+2022-10-27,CENT,Central,SUN,Solar,Arizona,Arizona,710,megawatthours
+2022-10-27,NW,Northwest,SUN,Solar,Arizona,Arizona,34315,megawatthours
+2022-10-25,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-25,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Eastern,Eastern,1003,megawatthours
+2022-10-25,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Pacific,Pacific,1038,megawatthours
+2022-10-25,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-24,CPLW,Duke Energy Progress West,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-25,NEVP,Nevada Power Company,SUN,Solar,Pacific,Pacific,14467,megawatthours
+2022-10-25,BPAT,Bonneville Power Administration,SUN,Solar,Arizona,Arizona,705,megawatthours
+2022-10-24,US48,United States Lower 48,SUN,Solar,Pacific,Pacific,301280,megawatthours
+2022-10-24,MIDA,Mid-Atlantic,SUN,Solar,Mountain,Mountain,14205,megawatthours
+2022-10-25,US48,United States Lower 48,SUN,Solar,Eastern,Eastern,323741,megawatthours
+2022-10-25,SE,Southeast,SUN,Solar,Eastern,Eastern,7939,megawatthours
+2022-10-24,TEX,Texas,SUN,Solar,Mountain,Mountain,43676,megawatthours
+2022-10-24,CAR,Carolinas,SUN,Solar,Pacific,Pacific,28339,megawatthours
+2022-10-24,US48,United States Lower 48,SUN,Solar,Mountain,Mountain,301194,megawatthours
+2022-10-25,CAR,Carolinas,SUN,Solar,Eastern,Eastern,24137,megawatthours
+2022-10-25,FPL,Florida Power & Light Co.,SUN,Solar,Eastern,Eastern,22735,megawatthours
+2022-10-25,SWPP,Southwest Power Pool,SUN,Solar,Eastern,Eastern,1551,megawatthours
+2022-10-25,TEN,Tennessee,SUN,Solar,Eastern,Eastern,1176,megawatthours
+2022-10-24,MIDW,Midwest,SUN,Solar,Central,Central,8452,megawatthours
+2022-10-25,BANC,Balancing Authority of Northern California,SUN,Solar,Mountain,Mountain,1232,megawatthours
+2022-10-25,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Eastern,Eastern,4905,megawatthours
+2022-10-24,FMPP,Florida Municipal Power Pool,SUN,Solar,Central,Central,1195,megawatthours
+2022-10-25,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Eastern,Eastern,1037,megawatthours
+2022-10-24,ISNE,ISO New England,SUN,Solar,Pacific,Pacific,380,megawatthours
+2022-10-25,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Central,Central,0,megawatthours
+2022-10-25,BPAT,Bonneville Power Administration,SUN,Solar,Central,Central,708,megawatthours
+2022-10-24,TEC,Tampa Electric Company,SUN,Solar,Central,Central,3823,megawatthours
+2022-10-25,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,86890,megawatthours
+2022-10-25,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-24,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,8385,megawatthours
+2022-10-24,PJM,"PJM Interconnection, LLC",SUN,Solar,Arizona,Arizona,14191,megawatthours
+2022-10-27,TEC,Tampa Electric Company,SUN,Solar,Pacific,Pacific,3116,megawatthours
+2022-10-28,BANC,Balancing Authority of Northern California,SUN,Solar,Pacific,Pacific,973,megawatthours
+2022-10-27,TAL,City of Tallahassee,SUN,Solar,Mountain,Mountain,395,megawatthours
+2022-10-27,FPL,Florida Power & Light Co.,SUN,Solar,Arizona,Arizona,21417,megawatthours
+2022-10-27,MIDA,Mid-Atlantic,SUN,Solar,Pacific,Pacific,21008,megawatthours
+2022-10-27,NYIS,New York Independent System Operator,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-28,DUK,Duke Energy Carolinas,SUN,Solar,Eastern,Eastern,4755,megawatthours
+2022-10-28,IPCO,Idaho Power Company,SUN,Solar,Mountain,Mountain,1208,megawatthours
+2022-10-28,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Eastern,Eastern,1219,megawatthours
+2022-10-27,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Mountain,Mountain,10149,megawatthours
+2022-10-27,JEA,JEA,SUN,Solar,Pacific,Pacific,212,megawatthours
+2022-10-28,CAL,California,SUN,Solar,Arizona,Arizona,100158,megawatthours
+2022-10-28,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Pacific,Pacific,3275,megawatthours
+2022-10-27,TAL,City of Tallahassee,SUN,Solar,Central,Central,395,megawatthours
+2022-10-27,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Central,Central,4802,megawatthours
+2022-10-27,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Pacific,Pacific,4802,megawatthours
+2022-10-28,TAL,City of Tallahassee,SUN,Solar,Eastern,Eastern,258,megawatthours
+2022-10-28,AVA,Avista Corporation,SUN,Solar,Pacific,Pacific,28,megawatthours
+2022-10-28,NWMT,NorthWestern Corporation,SUN,Solar,Eastern,Eastern,49,megawatthours
+2022-10-27,SE,Southeast,SUN,Solar,Mountain,Mountain,10149,megawatthours
+2022-10-28,SEC,Seminole Electric Cooperative,SUN,Solar,Eastern,Eastern,10,megawatthours
+2022-10-28,NEVP,Nevada Power Company,SUN,Solar,Central,Central,15471,megawatthours
+2022-10-28,BANC,Balancing Authority of Northern California,SUN,Solar,Eastern,Eastern,973,megawatthours
+2022-10-27,ISNE,ISO New England,SUN,Solar,Arizona,Arizona,3093,megawatthours
+2022-10-27,MIDA,Mid-Atlantic,SUN,Solar,Arizona,Arizona,21008,megawatthours
+2022-10-27,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Arizona,Arizona,4802,megawatthours
+2022-10-27,CPLE,Duke Energy Progress East,SUN,Solar,Central,Central,13408,megawatthours
+2022-10-28,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Eastern,Eastern,17,megawatthours
+2022-10-27,SWPP,Southwest Power Pool,SUN,Solar,Mountain,Mountain,710,megawatthours
+2022-10-28,IPCO,Idaho Power Company,SUN,Solar,Central,Central,1208,megawatthours
+2022-10-27,DUK,Duke Energy Carolinas,SUN,Solar,Pacific,Pacific,5519,megawatthours
+2022-10-27,NYIS,New York Independent System Operator,SUN,Solar,Central,Central,0,megawatthours
+2022-10-28,IID,Imperial Irrigation District,SUN,Solar,Central,Central,3618,megawatthours
+2022-10-27,MIDW,Midwest,SUN,Solar,Mountain,Mountain,14831,megawatthours
+2022-10-28,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,14800,megawatthours
+2022-10-24,FMPP,Florida Municipal Power Pool,SUN,Solar,Pacific,Pacific,1195,megawatthours
+2022-10-24,TEN,Tennessee,SUN,Solar,Mountain,Mountain,3631,megawatthours
+2022-10-24,CENT,Central,SUN,Solar,Pacific,Pacific,728,megawatthours
+2022-10-25,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Pacific,Pacific,7772,megawatthours
+2022-10-25,AVA,Avista Corporation,SUN,Solar,Eastern,Eastern,35,megawatthours
+2022-10-25,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Arizona,Arizona,27,megawatthours
+2022-10-25,PACE,PacifiCorp East,SUN,Solar,Central,Central,7853,megawatthours
+2022-10-24,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,8385,megawatthours
+2022-10-28,NWMT,NorthWestern Corporation,SUN,Solar,Central,Central,49,megawatthours
+2022-10-28,CISO,California Independent System Operator,SUN,Solar,Eastern,Eastern,88338,megawatthours
+2022-10-27,CPLW,Duke Energy Progress West,SUN,Solar,Pacific,Pacific,4,megawatthours
+2022-10-27,JEA,JEA,SUN,Solar,Mountain,Mountain,212,megawatthours
+2022-10-27,TEC,Tampa Electric Company,SUN,Solar,Mountain,Mountain,3116,megawatthours
+2022-10-28,SE,Southeast,SUN,Solar,Central,Central,7717,megawatthours
+2022-10-27,SE,Southeast,SUN,Solar,Pacific,Pacific,10149,megawatthours
+2022-10-28,BANC,Balancing Authority of Northern California,SUN,Solar,Mountain,Mountain,973,megawatthours
+2022-10-27,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Central,Central,5331,megawatthours
+2022-10-28,PACW,PacifiCorp West,SUN,Solar,Mountain,Mountain,1272,megawatthours
+2022-10-28,PACE,PacifiCorp East,SUN,Solar,Mountain,Mountain,12049,megawatthours
+2022-10-25,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Eastern,Eastern,37,megawatthours
+2022-10-25,TEPC,Tucson Electric Power,SUN,Solar,Central,Central,2932,megawatthours
+2022-10-25,IID,Imperial Irrigation District,SUN,Solar,Arizona,Arizona,3940,megawatthours
+2022-10-24,JEA,JEA,SUN,Solar,Arizona,Arizona,236,megawatthours
+2022-10-25,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Mountain,Mountain,1003,megawatthours
+2022-10-24,NE,New England,SUN,Solar,Arizona,Arizona,380,megawatthours
+2022-10-25,CISO,California Independent System Operator,SUN,Solar,Mountain,Mountain,92307,megawatthours
+2022-10-28,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Pacific,Pacific,17,megawatthours
+2022-10-28,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Arizona,Arizona,17,megawatthours
+2022-10-27,TAL,City of Tallahassee,SUN,Solar,Pacific,Pacific,395,megawatthours
+2022-10-27,TEN,Tennessee,SUN,Solar,Mountain,Mountain,4444,megawatthours
+2022-10-28,TEPC,Tucson Electric Power,SUN,Solar,Pacific,Pacific,2975,megawatthours
+2022-10-27,FMPP,Florida Municipal Power Pool,SUN,Solar,Pacific,Pacific,901,megawatthours
+2022-10-27,MIDW,Midwest,SUN,Solar,Pacific,Pacific,14832,megawatthours
+2022-10-28,EPE,El Paso Electric Company,SUN,Solar,Mountain,Mountain,821,megawatthours
+2022-10-28,BANC,Balancing Authority of Northern California,SUN,Solar,Arizona,Arizona,973,megawatthours
+2022-10-27,US48,United States Lower 48,SUN,Solar,Mountain,Mountain,315746,megawatthours
+2022-10-27,MIDA,Mid-Atlantic,SUN,Solar,Central,Central,21009,megawatthours
+2022-10-28,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Central,Central,17,megawatthours
+2022-10-28,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Arizona,Arizona,1598,megawatthours
+2022-10-28,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Pacific,Pacific,1020,megawatthours
+2022-10-27,TEN,Tennessee,SUN,Solar,Arizona,Arizona,4441,megawatthours
+2022-10-25,EPE,El Paso Electric Company,SUN,Solar,Pacific,Pacific,847,megawatthours
+2022-10-25,EPE,El Paso Electric Company,SUN,Solar,Arizona,Arizona,847,megawatthours
+2022-10-24,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Arizona,Arizona,66,megawatthours
+2022-10-24,NYIS,New York Independent System Operator,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-24,TEX,Texas,SUN,Solar,Arizona,Arizona,43676,megawatthours
+2022-10-25,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Central,Central,7772,megawatthours
+2022-10-25,IID,Imperial Irrigation District,SUN,Solar,Eastern,Eastern,3940,megawatthours
+2022-10-25,NEVP,Nevada Power Company,SUN,Solar,Central,Central,14506,megawatthours
+2022-10-24,SEC,Seminole Electric Cooperative,SUN,Solar,Central,Central,10,megawatthours
+2022-10-24,FPL,Florida Power & Light Co.,SUN,Solar,Mountain,Mountain,22204,megawatthours
+2022-10-25,SCEG,"Dominion Energy South Carolina, Inc.",SUN,Solar,Eastern,Eastern,5992,megawatthours
+2022-10-24,JEA,JEA,SUN,Solar,Pacific,Pacific,236,megawatthours
+2022-10-24,SEC,Seminole Electric Cooperative,SUN,Solar,Mountain,Mountain,10,megawatthours
+2022-10-24,NY,New York,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-24,PJM,"PJM Interconnection, LLC",SUN,Solar,Central,Central,14219,megawatthours
+2022-10-25,IPCO,Idaho Power Company,SUN,Solar,Pacific,Pacific,1417,megawatthours
+2022-10-28,SWPP,Southwest Power Pool,SUN,Solar,Eastern,Eastern,1296,megawatthours
+2022-10-28,PNM,Public Service Company of New Mexico,SUN,Solar,Arizona,Arizona,3432,megawatthours
+2022-10-27,TEX,Texas,SUN,Solar,Arizona,Arizona,49457,megawatthours
+2022-10-27,NY,New York,SUN,Solar,Central,Central,0,megawatthours
+2022-10-28,FPL,Florida Power & Light Co.,SUN,Solar,Eastern,Eastern,18928,megawatthours
+2022-10-27,TVA,Tennessee Valley Authority,SUN,Solar,Mountain,Mountain,4444,megawatthours
+2022-10-27,TVA,Tennessee Valley Authority,SUN,Solar,Pacific,Pacific,4441,megawatthours
+2022-10-28,ISNE,ISO New England,SUN,Solar,Eastern,Eastern,2780,megawatthours
+2022-10-27,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Mountain,Mountain,76,megawatthours
+2022-10-27,PSCO,Public Service Company of Colorado,SUN,Solar,Pacific,Pacific,1059,megawatthours
+2022-10-28,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,31219,megawatthours
+2022-10-28,TEC,Tampa Electric Company,SUN,Solar,Eastern,Eastern,3762,megawatthours
+2022-10-27,CPLE,Duke Energy Progress East,SUN,Solar,Arizona,Arizona,13406,megawatthours
+2022-10-27,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,49457,megawatthours
+2022-10-27,ISNE,ISO New England,SUN,Solar,Mountain,Mountain,3093,megawatthours
+2022-10-28,IID,Imperial Irrigation District,SUN,Solar,Arizona,Arizona,3618,megawatthours
+2022-10-28,BPAT,Bonneville Power Administration,SUN,Solar,Arizona,Arizona,512,megawatthours
+2022-10-24,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,8385,megawatthours
+2022-10-25,CAL,California,SUN,Solar,Eastern,Eastern,105251,megawatthours
+2022-10-25,GRID,"Gridforce Energy Management, LLC",SUN,Solar,Mountain,Mountain,1037,megawatthours
+2022-10-24,SC,South Carolina Public Service Authority,SUN,Solar,Arizona,Arizona,399,megawatthours
+2022-10-24,SEC,Seminole Electric Cooperative,SUN,Solar,Arizona,Arizona,10,megawatthours
+2022-10-24,SE,Southeast,SUN,Solar,Arizona,Arizona,9552,megawatthours
+2022-10-25,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Central,Central,1607,megawatthours
+2022-10-25,TEX,Texas,SUN,Solar,Central,Central,86890,megawatthours
+2022-10-25,IPCO,Idaho Power Company,SUN,Solar,Arizona,Arizona,1417,megawatthours
+2022-10-25,NW,Northwest,SUN,Solar,Mountain,Mountain,33719,megawatthours
+2022-10-25,CISO,California Independent System Operator,SUN,Solar,Pacific,Pacific,92307,megawatthours
+2022-10-25,ISNE,ISO New England,SUN,Solar,Eastern,Eastern,1024,megawatthours
+2022-10-25,FMPP,Florida Municipal Power Pool,SUN,Solar,Eastern,Eastern,807,megawatthours
+2022-10-24,NY,New York,SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-25,CENT,Central,SUN,Solar,Central,Central,1551,megawatthours
+2022-10-24,NE,New England,SUN,Solar,Mountain,Mountain,380,megawatthours
+2022-10-25,CAL,California,SUN,Solar,Pacific,Pacific,105251,megawatthours
+2022-10-24,JEA,JEA,SUN,Solar,Mountain,Mountain,236,megawatthours
+2022-10-24,FMPP,Florida Municipal Power Pool,SUN,Solar,Mountain,Mountain,1195,megawatthours
+2022-10-24,TEN,Tennessee,SUN,Solar,Pacific,Pacific,3631,megawatthours
+2022-10-25,TEPC,Tucson Electric Power,SUN,Solar,Mountain,Mountain,2932,megawatthours
+2022-10-24,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Pacific,Pacific,66,megawatthours
+2022-10-25,AZPS,Arizona Public Service Company,SUN,Solar,Mountain,Mountain,4213,megawatthours
+2022-10-24,PSCO,Public Service Company of Colorado,SUN,Solar,Arizona,Arizona,3845,megawatthours
+2022-10-25,SWPP,Southwest Power Pool,SUN,Solar,Central,Central,1551,megawatthours
+2022-10-25,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Arizona,Arizona,3333,megawatthours
+2022-10-28,CAL,California,SUN,Solar,Mountain,Mountain,100158,megawatthours
+2022-10-27,CAR,Carolinas,SUN,Solar,Mountain,Mountain,24602,megawatthours
+2022-10-28,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Mountain,Mountain,3275,megawatthours
+2022-10-27,US48,United States Lower 48,SUN,Solar,Pacific,Pacific,315769,megawatthours
+2022-10-27,TAL,City of Tallahassee,SUN,Solar,Arizona,Arizona,395,megawatthours
+2022-10-27,PJM,"PJM Interconnection, LLC",SUN,Solar,Pacific,Pacific,21008,megawatthours
+2022-10-27,FMPP,Florida Municipal Power Pool,SUN,Solar,Arizona,Arizona,901,megawatthours
+2022-10-28,SRP,Salt River Project Agricultural Improvement and Power District,SUN,Solar,Central,Central,3275,megawatthours
+2022-10-27,NE,New England,SUN,Solar,Arizona,Arizona,3093,megawatthours
+2022-10-28,CAL,California,SUN,Solar,Eastern,Eastern,100158,megawatthours
+2022-10-27,SC,South Carolina Public Service Authority,SUN,Solar,Pacific,Pacific,344,megawatthours
+2022-10-25,FLA,Florida,SUN,Solar,Eastern,Eastern,32768,megawatthours
+2022-10-25,PNM,Public Service Company of New Mexico,SUN,Solar,Arizona,Arizona,3561,megawatthours
+2022-10-24,ISNE,ISO New England,SUN,Solar,Central,Central,380,megawatthours
+2022-10-25,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-25,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Eastern,Eastern,7939,megawatthours
+2022-10-25,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Arizona,Arizona,1003,megawatthours
+2022-10-24,NW,Northwest,SUN,Solar,Arizona,Arizona,35756,megawatthours
+2022-10-25,BPAT,Bonneville Power Administration,SUN,Solar,Eastern,Eastern,708,megawatthours
+2022-10-24,MIDW,Midwest,SUN,Solar,Pacific,Pacific,8451,megawatthours
+2022-10-25,PACW,PacifiCorp West,SUN,Solar,Eastern,Eastern,1629,megawatthours
+2022-10-24,CPLE,Duke Energy Progress East,SUN,Solar,Arizona,Arizona,15491,megawatthours
+2022-10-25,AZPS,Arizona Public Service Company,SUN,Solar,Central,Central,4183,megawatthours
+2022-10-24,US48,United States Lower 48,SUN,Solar,Central,Central,301115,megawatthours
+2022-10-24,CPLE,Duke Energy Progress East,SUN,Solar,Mountain,Mountain,15492,megawatthours
+2022-10-24,FLA,Florida,SUN,Solar,Central,Central,32940,megawatthours
+2022-10-24,ISNE,ISO New England,SUN,Solar,Arizona,Arizona,380,megawatthours
+2022-10-24,PSCO,Public Service Company of Colorado,SUN,Solar,Pacific,Pacific,3845,megawatthours
+2022-10-24,NWMT,NorthWestern Corporation,SUN,Solar,Arizona,Arizona,70,megawatthours
+2022-10-25,TEPC,Tucson Electric Power,SUN,Solar,Arizona,Arizona,2932,megawatthours
+2022-10-25,CPLW,Duke Energy Progress West,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-25,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Pacific,Pacific,1607,megawatthours
+2022-10-25,PACW,PacifiCorp West,SUN,Solar,Central,Central,1629,megawatthours
+2022-10-25,BPAT,Bonneville Power Administration,SUN,Solar,Mountain,Mountain,704,megawatthours
+2022-10-24,NY,New York,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-24,TAL,City of Tallahassee,SUN,Solar,Arizona,Arizona,371,megawatthours
+2022-10-24,DUK,Duke Energy Carolinas,SUN,Solar,Arizona,Arizona,5932,megawatthours
+2022-10-27,SEC,Seminole Electric Cooperative,SUN,Solar,Central,Central,9,megawatthours
+2022-10-28,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Central,Central,7229,megawatthours
+2022-10-28,SOCO,"Southern Company Services, Inc. - Trans",SUN,Solar,Central,Central,7717,megawatthours
+2022-10-28,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Arizona,Arizona,1219,megawatthours
+2022-10-28,NYIS,New York Independent System Operator,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-28,CAR,Carolinas,SUN,Solar,Eastern,Eastern,17836,megawatthours
+2022-10-27,SC,South Carolina Public Service Authority,SUN,Solar,Arizona,Arizona,344,megawatthours
+2022-10-28,TVA,Tennessee Valley Authority,SUN,Solar,Eastern,Eastern,3677,megawatthours
+2022-10-27,FMPP,Florida Municipal Power Pool,SUN,Solar,Mountain,Mountain,901,megawatthours
+2022-10-27,SC,South Carolina Public Service Authority,SUN,Solar,Central,Central,344,megawatthours
+2022-10-28,IID,Imperial Irrigation District,SUN,Solar,Mountain,Mountain,3618,megawatthours
+2022-10-28,AZPS,Arizona Public Service Company,SUN,Solar,Arizona,Arizona,4215,megawatthours
+2022-10-27,SWPP,Southwest Power Pool,SUN,Solar,Pacific,Pacific,710,megawatthours
+2022-10-28,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Central,Central,1598,megawatthours
+2022-10-28,FMPP,Florida Municipal Power Pool,SUN,Solar,Eastern,Eastern,616,megawatthours
+2022-10-28,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Eastern,Eastern,64,megawatthours
+2022-10-28,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Pacific,Pacific,1598,megawatthours
+2022-10-27,SEC,Seminole Electric Cooperative,SUN,Solar,Mountain,Mountain,9,megawatthours
+2022-10-28,TEPC,Tucson Electric Power,SUN,Solar,Mountain,Mountain,2975,megawatthours
+2022-10-28,PACE,PacifiCorp East,SUN,Solar,Central,Central,12049,megawatthours
+2022-10-28,MIDA,Mid-Atlantic,SUN,Solar,Eastern,Eastern,12452,megawatthours
+2022-10-25,EPE,El Paso Electric Company,SUN,Solar,Mountain,Mountain,847,megawatthours
+2022-10-24,MIDW,Midwest,SUN,Solar,Arizona,Arizona,8451,megawatthours
+2022-10-24,CPLW,Duke Energy Progress West,SUN,Solar,Arizona,Arizona,0,megawatthours
+2022-10-25,AVA,Avista Corporation,SUN,Solar,Central,Central,35,megawatthours
+2022-10-25,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Mountain,Mountain,1607,megawatthours
+2022-10-25,PSEI,"Puget Sound Energy, Inc.",SUN,Solar,Eastern,Eastern,27,megawatthours
+2022-10-25,NYIS,New York Independent System Operator,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-25,AVA,Avista Corporation,SUN,Solar,Mountain,Mountain,35,megawatthours
+2022-10-24,NYIS,New York Independent System Operator,SUN,Solar,Central,Central,0,megawatthours
+2022-10-25,TVA,Tennessee Valley Authority,SUN,Solar,Eastern,Eastern,1176,megawatthours
+2022-10-25,ERCO,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,86890,megawatthours
+2022-10-24,US48,United States Lower 48,SUN,Solar,Arizona,Arizona,301280,megawatthours
+2022-10-25,IPCO,Idaho Power Company,SUN,Solar,Mountain,Mountain,1417,megawatthours
+2022-10-25,JEA,JEA,SUN,Solar,Eastern,Eastern,233,megawatthours
+2022-10-24,CENT,Central,SUN,Solar,Mountain,Mountain,728,megawatthours
+2022-10-25,BANC,Balancing Authority of Northern California,SUN,Solar,Arizona,Arizona,1232,megawatthours
+2022-10-25,BANC,Balancing Authority of Northern California,SUN,Solar,Eastern,Eastern,1232,megawatthours
+2022-10-25,LDWP,Los Angeles Department of Water and Power,SUN,Solar,Arizona,Arizona,7772,megawatthours
+2022-10-24,PJM,"PJM Interconnection, LLC",SUN,Solar,Pacific,Pacific,14191,megawatthours
+2022-10-25,CAL,California,SUN,Solar,Arizona,Arizona,105251,megawatthours
+2022-10-25,NE,New England,SUN,Solar,Eastern,Eastern,1024,megawatthours
+2022-10-25,WACM,Western Area Power Administration - Rocky Mountain Region,SUN,Solar,Pacific,Pacific,1003,megawatthours
+2022-10-25,AZPS,Arizona Public Service Company,SUN,Solar,Eastern,Eastern,4167,megawatthours
+2022-10-25,DUK,Duke Energy Carolinas,SUN,Solar,Eastern,Eastern,5958,megawatthours
+2022-10-24,FLA,Florida,SUN,Solar,Mountain,Mountain,33015,megawatthours
+2022-10-25,PSCO,Public Service Company of Colorado,SUN,Solar,Eastern,Eastern,5457,megawatthours
+2022-10-25,PACW,PacifiCorp West,SUN,Solar,Pacific,Pacific,1629,megawatthours
+2022-10-25,NY,New York,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-27,MISO,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,14756,megawatthours
+2022-10-28,TEN,Tennessee,SUN,Solar,Central,Central,3676,megawatthours
+2022-10-28,WALC,Western Area Power Administration - Desert Southwest Region,SUN,Solar,Mountain,Mountain,1598,megawatthours
+2022-10-28,CPLW,Duke Energy Progress West,SUN,Solar,Eastern,Eastern,0,megawatthours
+2022-10-28,AVRN,"Avangrid Renewables, LLC",SUN,Solar,Mountain,Mountain,0,megawatthours
+2022-10-28,IPCO,Idaho Power Company,SUN,Solar,Eastern,Eastern,1208,megawatthours
+2022-10-27,TEN,Tennessee,SUN,Solar,Pacific,Pacific,4441,megawatthours
+2022-10-27,PJM,"PJM Interconnection, LLC",SUN,Solar,Mountain,Mountain,21008,megawatthours
+2022-10-28,NEVP,Nevada Power Company,SUN,Solar,Mountain,Mountain,15470,megawatthours
+2022-10-28,PACE,PacifiCorp East,SUN,Solar,Eastern,Eastern,12049,megawatthours
+2022-10-27,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,SUN,Solar,Arizona,Arizona,76,megawatthours
+2022-10-27,FPC,"Duke Energy Florida, Inc.",SUN,Solar,Mountain,Mountain,4802,megawatthours
+2022-10-28,SW,Southwest,SUN,Solar,Mountain,Mountain,16345,megawatthours
+2022-10-27,NY,New York,SUN,Solar,Pacific,Pacific,0,megawatthours
+2022-10-27,FLA,Florida,SUN,Solar,Pacific,Pacific,30852,megawatthours
