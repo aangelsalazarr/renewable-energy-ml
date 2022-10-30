@@ -12,6 +12,6 @@
 - [EIA, Wind & Solar Generation Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/tree/main/black_box)
 
 ## Sources
-- [EIA Open Data](https://www.eia.gov/opendata)
-- [NSRDB](https://nsrdb.nrel.gov/)
-- [NCDC](https://www.ncdc.noaa.gov/cdo-web/)
+- [EIA Open Data, Energy Generation Data](https://www.eia.gov/opendata)
+- [NSRDB, Solar Radiation Data](https://nsrdb.nrel.gov/)
+- [NCDC, Temperature Data](https://www.ncdc.noaa.gov/cdo-web/)
