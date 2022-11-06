@@ -10,6 +10,7 @@
 
 ## Functions
 - [EIA, Wind & Solar Generation Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/tree/main/black_box)
+- [NCEI Weather Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/blob/main/black_box/ncei_data_processor.py)
 
 ## Sources
 - [EIA Open Data, Energy Generation Data](https://www.eia.gov/opendata)
