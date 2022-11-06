@@ -15,4 +15,4 @@
 ## Sources
 - [EIA Open Data, Energy Generation Data](https://www.eia.gov/opendata)
 - [NSRDB, Solar Radiation Data](https://nsrdb.nrel.gov/)
-- [NCDC, Temperature Data](https://www.ncdc.noaa.gov/cdo-web/)
+- [NCEI, Temperature Data](https://www.ncei.noaa.gov/)
