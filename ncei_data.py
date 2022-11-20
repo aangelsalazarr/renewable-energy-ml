@@ -2,7 +2,7 @@ from black_box.ncei_data_processor import grab_ncei_data
 
 # grabbing temperature data for texas by setting params first
 
-# temp average, min, max, avg wind speed, precipitation and weather type
+# temp average, min, max, avg wind speed, precipitation
 data_type = 'TAVG,TMAX,TMIN,AWND,PRCP'
 
 # houston william hobby airport and houston intercontinental airport
