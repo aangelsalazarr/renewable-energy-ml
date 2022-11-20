@@ -9,9 +9,10 @@
 - [Data Files](https://github.com/aangelsalazarr/renewable-energy-ml/tree/main/data_files)
 
 ## Functions
-- [EIA, Wind & Solar Generation Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/tree/main/black_box)
+- [EIA, Wind & Solar Generation Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/blob/main/black_box/eia_data_processor.py)
+- [NCEI Weather Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/blob/main/black_box/ncei_data_processor.py)
 
 ## Sources
 - [EIA Open Data, Energy Generation Data](https://www.eia.gov/opendata)
 - [NSRDB, Solar Radiation Data](https://nsrdb.nrel.gov/)
-- [NCDC, Temperature Data](https://www.ncdc.noaa.gov/cdo-web/)
+- [NCEI, Temperature Data](https://www.ncei.noaa.gov/)
