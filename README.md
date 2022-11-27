@@ -4,6 +4,14 @@
 - [Multiple-Input Deep Convolutional Neural Network Model for Short-Term Photovoltaic Power Forecasting](https://github.com/aangelsalazarr/renewable-energy-ml/blob/main/energy_ml_papers/Multiple-Input_Deep_Convolutional_Neural_Network_Model_for_Short-Term_Photovoltaic_Power_Forecasting.pdf)
   - Authors: Chiou-Jye Huang and Ping-Huan Kuo
   - Publication Date: June 6, 2019
+  
+ ## Machine Learning Models
+ 1. Machine Learning Model 01
+  - Purpose of this model is to serve as the first phase ml model for the data we have collected. 
+  - Time Period: January (01), April (04), July (07), & October (10) of 2019
+  - First Iteration: Daily Generation Data with Variable Data for the Day
+  - Location: Houston, TX
+  - Power Generation Type: Solar 
 
 ## Data
 - [Data Files](https://github.com/aangelsalazarr/renewable-energy-ml/tree/main/data_files)
