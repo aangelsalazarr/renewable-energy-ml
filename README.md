@@ -8,7 +8,7 @@
  ## Machine Learning Models
  1. Machine Learning Model 01
   - Purpose of this model is to serve as the first phase ml model for the data we have collected. 
-  - Time Period: January (01), April (04), July (07), & October (10) of 2019
+  - Time Period: 2019
   - First Iteration: Daily Generation Data with Variable Data for the Day
   - Location: Houston, TX
   - Power Generation Type: Solar 
