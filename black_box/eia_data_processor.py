@@ -110,7 +110,7 @@ def hourly_energy_gen_data(start_time, fueltype, apikey):
     return df  # return our now transformed df
 
 
-def daily_energy_gen_data(start, fueltype, apikey):
+def daily_energy_gen_data(start, end, fueltype, apikey, respondent):
     # base url
     baseUrl = 'https://api.eia.gov/v2/electricity/rto/daily-fuel-type-data/data/'
     baseUrl = baseUrl + '?api_key=' + str(apikey)
@@ -119,10 +119,12 @@ def daily_energy_gen_data(start, fueltype, apikey):
     urlData = '&data[0]=value'
     urlFreq = '&frequency=daily'
     urlStart = '&start=' + str(start)  # format: 2022-10-23T00
-    urlFacet = '&facets[fueltype][0]=' + str(fueltype)
+    urlEnd = '&end=' + str(end)  # format: 2023-10-23T00
+    urlFacet = '&facets[fueltype][0]=' + str(fueltype) + \
+               '&facets[respondent][0]=' + str(respondent)
 
     # concatenate to get main url
-    url = baseUrl + urlData + urlFacet + urlFreq + urlStart
+    url = baseUrl + urlData + urlFacet + urlFreq + urlStart + urlEnd
 
     r = requests.get(url=url)  # store url request as variable r
     data = r.json()  # convert our request into json format
