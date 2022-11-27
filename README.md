@@ -13,14 +13,12 @@
   - Location: Houston, TX
   - Power Generation Type: Solar 
 
-## Data
-- [Data Files](https://github.com/aangelsalazarr/renewable-energy-ml/tree/main/data_files)
-
 ## Functions
 - [EIA, Wind & Solar Generation Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/blob/main/black_box/eia_data_processor.py)
 - [NCEI Weather Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/blob/main/black_box/ncei_data_processor.py)
+- [NSRDB Data Processor](https://github.com/aangelsalazarr/renewable-energy-ml/blob/main/black_box/nsrdb_data_processor.py)
 
 ## Sources
 - [EIA Open Data, Energy Generation Data](https://www.eia.gov/opendata)
 - [NSRDB, Solar Radiation Data](https://nsrdb.nrel.gov/)
-- [NCEI, Temperature Data](https://www.ncei.noaa.gov/)
+- [NCEI, Weather Data](https://www.ncei.noaa.gov/)
