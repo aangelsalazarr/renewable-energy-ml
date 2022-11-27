@@ -2,14 +2,15 @@ import os
 import requests
 import pandas as pd
 import numpy as np
+from datetime import *
 
 # storing our api key
 api_key = os.environ.get('nsrdbKey')
 
-def grab_nsrdb_data(year, email, lat, long, atts, interval, name, key):
 
+def grab_nsrdb_data(year, email, lat, long, atts, interval, name, key):
     # params
-    api_key=key
+    api_key = key
     year = str(year)  # '2019'
     email = str(email)  # 'aangelsalazarr@gmail.com'
     lat = str(lat)  # str(29.758938)
@@ -44,5 +45,17 @@ def grab_nsrdb_data(year, email, lat, long, atts, interval, name, key):
 
     # creating out df
     df = pd.read_csv(url, skiprows=2)
+
+    #
+
+    # creating a period column
+    df['period'] = df['Month'].astype(str) + '/' + df['Day'].astype(str) + \
+                   '/' \
+                   + df[
+                       'Year'].astype(str) + ' ' + df['Hour'].astype(str) + ':00:00'
+
+    # converting period column to DD-MM-YYYY H-M-S, %d-%m-%y %H-%M-%S
+    # df['period'] = datetime.strptime(df['period'].astype(str),
+                                    # '%m/%d/%Y %H:%M:%S')
 
     return df

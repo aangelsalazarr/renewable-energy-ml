@@ -40,5 +40,17 @@ def grab_ncei_data(dataType, stations, start, end):
     data = r.json()
     df = pd.DataFrame(data=data)
 
+    # converting out dict
+    convert_dict = {
+        'AWND': float,
+        'TMAX': float,
+        'TAVG': float,
+        'TMIN': float,
+        'PRCP': float
+    }
+
+    # converting col values to float types
+    df = df.astype(convert_dict)
+
     return df
 

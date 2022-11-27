@@ -1,7 +1,22 @@
 from black_box.nsrdb_data_processor import *
 from black_box.ncei_data_processor import *
 from black_box.eia_data_processor import *
+from black_box.general_functions import *
 import os
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+from matplotlib import rc
+
+
+# some params related to the framework of output that we will need
+rc('mathtext', default='regular')
+plt.rcParams["figure.autolayout"] = True
+pd.set_option('display.max_columns', None)
+
+# setting up params for our data_visuals
+sns.set(font_scale=0.5)
+sns.set_style('dark')
 
 # storing our api keys
 nsrdb_key = os.environ.get('nsrdbKey')
@@ -49,4 +64,37 @@ weather_df.to_csv('./data_files/htx_2019_ncei_weather_data.csv', index=False)
 solar_rad.to_csv('./data_files/htx_2019_nsrdb_data.csv', index=False)
 # converting solar generation to csv files to be stored
 solar_gen_df.to_csv('./data_files/htx_2019_eia_solar_gen_data.csv', index=False)
+
+
+# let's visualize our data, beginning with weather data
+fig1 = plt.figure()
+awnd = sns.lineplot(data=weather_df, x='DATE', y='AWND')
+
+fig2 = plt.figure()
+tavg = sns.lineplot(data=weather_df, x='DATE', y='TAVG')
+
+fig3 = plt.figure()
+precip = sns.lineplot(data=weather_df, x='DATE', y='PRCP')
+
+fig4 = plt.figure()
+solar_gen = sns.lineplot(data=solar_gen_df[solar_gen_df['timezone'] ==
+                                           'Central'],
+                         x='period',
+                         y='value')
+
+fig5 = plt.figure()
+solar_rad = sns.lineplot(data=solar_rad[(solar_rad['Month'] == 1) & (
+    solar_rad['Day'] <= 15)],
+                         x='period',
+                         y='GHI')
+
+plt.xticks(rotation=90)
+
+# saving all our graphs
+filename = './data_visuals/htx_2019_data_visuals.pdf'
+
+save_multi_image(filename)
+
+
+
 
